@@ -1,0 +1,16 @@
+@import "../../../../scss/vars";
+
+.block {
+  border-radius: 4px;
+  height: 44px;
+  border: 1px solid $grey-3;
+  display: flex;
+  overflow: hidden;
+}
+
+@media (max-width: $break_md) {
+  .block {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}

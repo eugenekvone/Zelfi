@@ -1,0 +1,105 @@
+@import "../../../../scss/vars";
+
+.block {
+  position: relative;
+  margin-bottom: -2px;
+  margin-right: 50px;
+  display: flex;
+}
+
+.inner {
+  display: flex;
+  align-items: center;
+  padding-bottom: 16px;
+}
+
+.item_1 {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  border-radius: 100%;
+  background-color: $pink-2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: -8px;
+  right: -20px;
+}
+
+.item_2 {
+  height: 33px;
+  border-radius: 4px;
+  background-color: $purple-1;
+  padding: 0 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 10px;
+  margin-top: -8px;
+}
+
+.block_active {
+
+  .inner {
+    border-bottom: 3px solid $purple-1;
+  }
+
+  .title {
+    font-family: 'Montserrat-SemiBold';
+  }
+}
+
+@media (max-width: $break_lg) {
+  .block {
+    margin-right: 20px;
+  }
+
+  .typeSecond {
+    margin-right: 50px;
+  }
+}
+
+@media (max-width: $break_md) {
+  .block {
+    height: auto;
+    margin-right: 0;
+    border-bottom: 1px solid #E5E5E5;
+    align-items: center;
+  }
+
+  .item_2 {
+    margin-left: auto;
+    margin-top: 0;
+    height: 23px;
+    padding: 0 7px;
+    border-radius: 6px;
+
+    p {
+      font-size: 9px;
+      line-height: 11px;
+    }
+  }
+
+  .inner {
+    padding-bottom: 0;
+    padding: 15px 0;
+    height: 51px;
+  }
+
+  .typeSecond {
+    margin-right: 0;
+    border-bottom: unset;
+
+    .inner {
+      height: 46px;
+      padding: 15px;
+    }
+  }
+
+  .item_1 {
+    top: 3px;
+    right: -20px;
+  }
+
+
+}

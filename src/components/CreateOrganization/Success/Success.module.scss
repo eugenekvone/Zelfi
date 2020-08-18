@@ -1,0 +1,30 @@
+@import "../../../scss/vars";
+
+.text {
+  margin: 20px auto 74px auto;
+}
+
+.block {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn {
+  min-width: 285px;
+}
+
+@media (max-width: $break_md) {
+  .block {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 20px;
+  }
+
+  .text {
+    margin-bottom: 40px;
+  }
+
+  .btn {
+    min-width: auto;
+  }
+}

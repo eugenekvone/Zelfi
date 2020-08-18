@@ -1,0 +1,57 @@
+@import "../../../scss/vars";
+
+.block {
+  border-radius: 4px;
+  margin-top: 30px;
+  overflow: hidden;
+  display: flex;
+  height: 58px;
+  width: fit-content;
+}
+
+.btn_nav {
+  width: 40px;
+}
+
+.btn_nav,
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  height: 100%;
+}
+
+.btn {
+  width: 54px;
+  border-right: 1px solid rgba(229, 229, 229, 0.5);
+}
+
+.btn:first-of-type {
+  border-left: 1px solid rgba(229, 229, 229, 0.5);
+}
+
+.btn_active {
+  background-color: #F4F4FD;
+}
+
+.text.text_active {
+  color: $purple-1;
+  opacity: 1;
+  font-family: 'Montserrat-SemiBold';
+}
+
+.text {
+  opacity: 0.5;
+}
+
+@media (max-width: $break_md) {
+  .block {
+    height: 40px;
+  }
+
+  .btn {
+    width: 40px;
+  }
+}
+

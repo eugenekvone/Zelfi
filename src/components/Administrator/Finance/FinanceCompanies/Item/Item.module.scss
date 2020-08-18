@@ -1,0 +1,81 @@
+@import "../../../../../scss/vars";
+
+.item {
+  padding: 25px 35px 25px 25px;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-gap: 74px;
+}
+
+.text_1 {
+  margin-bottom: 10px;
+}
+
+.block_1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr auto;
+  grid-gap: 20px;
+}
+
+.block_2 {
+  height: 40px;
+  display: flex;
+  padding: 0 8px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  min-width: 220px;
+}
+
+.block_2_purple {
+  background-color: $grey-8;
+}
+
+.block_2_pink {
+  background-color: $pink-4;
+}
+
+.block_5 {
+  display: none;
+}
+
+@media (max-width: $break_xl) {
+  .block_1 {
+    grid-gap: 20px;
+  }
+
+  .item {
+    grid-gap: 35px;
+  }
+}
+
+@media (max-width: $break_lg) {
+  .item {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: $break_md) {
+  .block_1 {
+    grid-template-columns: 1fr;
+  }
+
+  .item {
+    padding: 10px 10px 20px 10px;
+    grid-gap: 15px;
+  }
+
+  .block_3 {
+    margin-left: 0;
+  }
+
+  .block_4 {
+    margin: 0 auto;
+  }
+
+  .block_5 {
+    display: grid;
+    grid-gap: 12px;
+    margin-bottom: 12px;
+  }
+}

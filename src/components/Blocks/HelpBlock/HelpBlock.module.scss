@@ -1,0 +1,31 @@
+@import "../../../scss/vars";
+
+.block_1 {
+  margin-bottom: 63px;
+}
+
+.text {
+  margin-bottom: 60px;
+}
+
+.icon {
+  position: absolute;
+}
+
+@media (max-width: $break_md) {
+  .block_1 {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    margin-bottom: 30px;
+  }
+
+  .text {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+
+  .icon {
+    position: relative;
+    margin: auto;
+  }
+}

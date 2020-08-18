@@ -1,0 +1,50 @@
+@import "../../../../scss/vars";
+
+.item {
+  height: 190px;
+  background-color: white;
+  border-radius: 4px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.text_3 {
+
+  margin-top: auto;
+
+  span {
+    font-family: Montserrat-ExtraBold;
+    color: $pink-2;
+  }
+}
+
+.block {
+  margin-bottom: 15px;
+  position: relative;
+}
+
+.avatar {
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+  z-index: 1;
+}
+
+.block__inner {
+  position: absolute;
+  left: 26px;
+  top: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100px;
+  border: 1px solid $grey-3;
+  width: 163px;
+  height: 43px;
+  padding-left: 25px;
+}
+
+.icon {
+  margin-right: 10px;
+}

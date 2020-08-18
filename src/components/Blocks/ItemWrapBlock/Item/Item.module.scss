@@ -1,0 +1,80 @@
+@import "../../../../scss/vars";
+
+.nav {
+  height: 58px;
+  border-radius: 4px;
+  background-color: $purple-1;
+  padding: 0 17px 0 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  border: 1px solid $purple-1;
+  z-index: 1;
+  position: relative;
+}
+
+.icon {
+  display: none;
+  user-select: none;
+}
+
+.icon_disabled {
+  display: block;
+}
+
+.item {
+  overflow: hidden;
+  min-height: 58px;
+}
+
+.item_active {
+  .content {
+    max-height: 5000px;
+    transition: max-height 1s ease-in-out;
+  }
+
+  .nav {
+    background-color: white;
+    user-select: none;
+  }
+
+  .nav__text {
+    color: black;
+  }
+
+  .icon_disabled {
+    display: none;
+  }
+
+  .icon_active {
+    display: block;
+  }
+}
+
+.content {
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.5s cubic-bezier(0, 1, 0, 1);
+  z-index: 0;
+}
+
+.text {
+  padding: 20px 68px;
+}
+
+@media (max-width: $break_md) {
+  .nav {
+    height: auto;
+    padding: 3px 11px;
+  }
+
+  .item,
+  .nav {
+    min-height: 40px;
+  }
+
+  .text {
+    padding: 20px 0 0 0;
+  }
+}

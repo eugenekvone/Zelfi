@@ -1,0 +1,37 @@
+@import "../../../scss/vars";
+
+.navbar {
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+}
+
+.item_active {
+    font-weight: 600;
+}
+
+.content {
+    padding: 30px 35px 55px 35px;
+    max-width: 662px;
+    width: 100%;
+}
+
+.item {
+    margin-right: 25px;
+}
+
+.item:last-of-type {
+    margin-right: 0;
+}
+
+// ADAPTIVE
+
+@media (max-width: $break_md) {
+    .navlink:not(:last-child) {
+        margin-right: 20px;
+    }
+
+    .block .logo {
+        margin-right: 30px;
+    }
+}

@@ -1,0 +1,165 @@
+@import "../../../scss/vars";
+
+.block {
+  display: flex;
+  align-items: center;
+}
+
+.img_wrap {
+  border-radius: 100%;
+  background-color: $pink-2;
+}
+
+.img_wrap_middle,
+.img_wrap_big,
+.img_wrap_low,
+.img_wrap_large,
+.img_wrap_extraBig {
+  margin-right: 15px;
+}
+
+.img_wrap_small {
+  margin-right: 9px;
+}
+
+.img_wrap_middle {
+  width: 60px;
+  min-width: 60px;
+}
+
+.img_wrap_extraBig {
+  width: 98px;
+  height: 98px;
+}
+
+.img_wrap_big {
+  width: 80px;
+  min-width: 80px;
+}
+
+.img_wrap_low {
+  width: 50px;
+  min-width: 50px;
+}
+
+.img_wrap_large {
+  width: 70px;
+  min-width: 70px;
+}
+
+.img_wrap_small {
+  width: 32px;
+  min-width: 32px;
+}
+
+.item_1 {
+  display: flex;
+  flex-direction: column;
+}
+
+
+.item_middle,
+.item_low,
+.item_small {
+  justify-content: space-around;
+}
+
+.item_big,
+.item_large,
+.item_extraBig {
+  justify-content: space-evenly;
+}
+
+.item_around {
+  justify-content: space-around;
+}
+
+.item_evenly {
+  justify-content: space-evenly;
+}
+
+.item_between {
+  justify-content: space-between;
+}
+
+.img_wrap_square {
+  border-radius: 4px;
+}
+
+.item_middle,
+.img_wrap_middle {
+  height: 60px;
+}
+
+.item_big,
+.img_wrap_big {
+  height: 80px;
+}
+
+.item_low,
+.img_wrap_low {
+  height: 50px;
+}
+
+.item_large,
+.img_wrap_large {
+  height: 70px;
+}
+
+.item_extraBig,
+.img_wrap_extraBig {
+  height: 98px;
+}
+
+.item_small,
+.img_wrap_small {
+  height: 32px;
+}
+
+.item_info {
+  height: 75px;
+  justify-content: space-between;
+}
+
+.img__text {
+  color: white;
+  text-transform: uppercase;
+}
+
+.rating_organizer {
+  margin-bottom: 2px;
+}
+
+.text_organizer {
+  color: $purple-5;
+  margin-right: 10px;
+}
+
+.item_2 {
+  margin-bottom: 10px;
+}
+
+.item_3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 100%;
+}
+
+@media (max-width: $break_md) {
+  .item_middle,
+  .img_wrap_middle,
+  .item_big,
+  .img_wrap_big,
+  .item_large,
+  .img_wrap_large,{
+    height: 50px;
+  }
+
+  .img_wrap_middle,
+  .img_wrap_big,
+  .img_wrap_large {
+    width: 50px;
+    min-width: 50px;
+  }
+}

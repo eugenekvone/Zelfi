@@ -1,0 +1,41 @@
+@import "../../../scss/vars";
+
+.item_1 {
+  margin-bottom: 24px;
+}
+
+.block {
+  margin-bottom: 30px;
+}
+
+.item_2 {
+  width: 68px;
+  height: 58px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 22px;
+}
+
+.item_2:last-of-type {
+  margin-right: 0;
+}
+
+.item_2_vk {
+  background: #5181B8;
+}
+
+.item_2_fb {
+  background: #4267B2;
+}
+
+.item_2_google {
+  background: #4285F4;
+}
+
+@media (max-width: $break_md) {
+  .item_1 {
+    margin-bottom: 15px;
+  }
+}

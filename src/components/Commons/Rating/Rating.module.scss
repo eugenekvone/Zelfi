@@ -1,0 +1,42 @@
+@import "../../../scss/vars";
+
+.block {
+  display: flex;
+  align-items: center;
+}
+
+.item_small:not(:last-child) {
+  margin-right: 3px;
+}
+
+.item_middle {
+  height: 20px;
+}
+
+.item_middle:not(:last-child) {
+  margin-right: 5px;
+}
+
+.item_big {
+  width: 37px;
+}
+
+.item_big:not(:last-child) {
+  margin-right: 20px;
+}
+
+.item_change {
+  cursor: pointer;
+}
+
+@media (max-width: $break_md) {
+  .block_big {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .item_big:not(:last-child) {
+    margin-right: 0;
+  }
+}
+

@@ -1,0 +1,33 @@
+@import "./scss/vars";
+
+.links {
+  position: fixed;
+  left: 20px;
+  width: 350px;
+  padding: 20px 25px;
+  z-index: 1;
+  background-color: white;
+  box-shadow: 0px 24px 30px rgba(155, 99, 248, 0.15);
+  margin: auto 0;
+  top: 0;
+  bottom: 0;
+  height: 400px;
+}
+
+.links__inner {
+  height: 100%;
+  overflow: auto;
+  display: grid;
+  grid-gap: 15px;
+}
+
+.block_back {
+  z-index: -5;
+}
+
+@media (max-width: $break_xl) {
+  .links {
+    display: none;
+  }
+}
+

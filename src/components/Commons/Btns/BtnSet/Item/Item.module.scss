@@ -1,0 +1,26 @@
+@import "../../../../../scss/vars";
+
+.item {
+  height: 100%;
+  padding: 0 30px;
+  border-right: 1px solid $grey-3;
+  border-radius: 0;
+}
+
+.item_active {
+  background-color: $purple-1;
+
+  .text {
+    color: white;
+  }
+}
+
+.item:last-of-type {
+  border: unset;
+}
+
+@media (max-width: $break_md) {
+  .item {
+    padding: 0;
+  }
+}

@@ -1,0 +1,15 @@
+@import "../../../../scss/vars";
+
+.block_1 {
+  padding: 19px 30px 40px 30px;
+  border: 1px solid #E5E5E5;
+  border-radius: 4px;
+  margin-bottom: 50px;
+}
+
+@media (max-width: $break_md) {
+  .block_1 {
+    padding: 10px 10px 20px 10px;
+    margin-bottom: 30px;
+  }
+}

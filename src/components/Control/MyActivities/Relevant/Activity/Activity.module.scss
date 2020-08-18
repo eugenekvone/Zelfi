@@ -1,0 +1,73 @@
+@import "../../../../../scss/vars";
+
+.block_1 {
+  margin-top: 19px;
+  margin-bottom: 49px;
+}
+
+.block_2 {
+  padding: 30px;
+  display: grid;
+  grid-gap: 40px;
+  align-items: center;
+  margin-bottom: 37px;
+}
+
+.block_2__type_1 {
+  grid-template-columns: 285px 1fr auto;
+}
+
+.block_2__type_2 {
+  grid-template-columns: 285px 1fr 1.2fr auto;
+}
+
+.text {
+  margin-bottom: 10px;
+}
+
+@media (max-width: $break_xl) {
+  .block_2 {
+    grid-gap: 20px;
+  }
+
+  .block_2__type_1 {
+    grid-template-columns: 240px 1fr auto;
+  }
+
+  .block_2__type_2 {
+    grid-template-columns: 240px 1fr 1fr auto;
+  }
+}
+
+@media (max-width: $break_lg) {
+
+  .block_2 {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: $break_md) {
+
+  .block_1 {
+    margin-top: 5px;
+    margin-bottom: 24px;
+  }
+
+  .block_2 {
+    grid-gap: 15px;
+    padding: 12px;
+    margin-bottom: 20px;
+  }
+
+  .text_1 {
+    margin-bottom: 10px;
+  }
+
+  .btn {
+    background-color: $purple-1;
+    p {
+      color: white;
+    }
+  }
+}
+

@@ -1,0 +1,37 @@
+POST https://zelfi-dev.rdbx24.ru/api/auth/register_one_user
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Евгений","last_name":"Кудряшов","email":"eugenekv.one@gmail.com","accept_confidence_license":true,"accept_personal_license":true}
+
+<> 2020-06-01T041630.200.json
+
+###
+
+POST https://zelfi-dev.rdbx24.ru/api/auth/register_one_user
+Accept: application/json
+Cache-Control: no-cache
+
+{"name":"Евгений","last_name":"Кудряшов","email":"eugenekv.one@gmail.com","accept_confidence_license":true,"accept_personal_license":true}
+
+<> 2020-06-01T041601.500.json
+
+###
+
+POST https://zelfi-dev.rdbx24.ru/api/auth/register_one_user
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2020-06-01T041511.500.json
+
+###
+
+POST https://zelfi-dev.rdbx24.ru/api/auth/register_one_user
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-06-01T041453.500.html
+
+###
+

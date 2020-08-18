@@ -1,0 +1,20 @@
+@import "../../../../../../scss/vars";
+
+.block_1 {
+  padding: 40px 30px 30px 30px;
+  box-shadow: 0px 8px 25px rgba(155, 99, 248, 0.15);
+}
+
+.block_2 {
+  padding: 35px 30px;
+}
+
+@media (max-width: $break_md) {
+  .block_1 {
+    padding: 20px 10px 20px 10px;
+  }
+
+  .block_2 {
+    padding: 30px 10px 12px 10px;
+  }
+}

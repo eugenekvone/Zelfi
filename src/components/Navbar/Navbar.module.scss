@@ -1,0 +1,280 @@
+@import "../../scss/vars";
+
+.block {
+    height: 100%;
+    z-index: 2;
+}
+
+.navbar {
+    height: 116px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    background-color: white;
+}
+
+.inner {
+    width: 100%;
+    background-color: white;
+    z-index: 2;
+    height: 100%;
+    position: absolute;
+}
+
+.navbar.navbar_transparent {
+    background-color: transparent;
+
+    .inner {
+        background-color: transparent;
+    }
+}
+
+.navlink {
+    color: black;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+}
+
+.navlink:not(:last-child) {
+    margin-right: 40px;
+}
+
+.navlink.active {
+    font-family: 'Montserrat-SemiBold';
+    border-bottom: 5px solid $purple-1;
+    padding-top: 5px;
+}
+
+.btn_1 {
+    min-width: 285px;
+}
+
+.btn_2 {
+    min-width: 78px;
+    background-color: transparent;
+}
+
+.btn_3 {
+    min-width: 78px;
+    background-color: transparent;
+    min-width: 196px;
+    margin-left: 20px;
+}
+
+.btn_4 {
+    min-width: 175px;
+}
+
+.btn_5 {
+    margin-left: auto;
+    margin-right: 58px;
+    position: relative;
+}
+
+.btn_5__block {
+    width: 16px;
+    height: 16px;
+    background-color: $pink-3;
+    border-radius: 100%;
+    position: absolute;
+    top: -8px;
+    right: -4px;
+}
+
+.btn_5__text {
+    text-align: center;
+    width: 100%;
+    line-height: 16px;
+}
+
+.logo {
+    position: absolute;
+    margin-left: 50px;
+    top: 39px;
+}
+
+.block .logo {
+    display: none;
+    margin-left: 0;
+    position: relative;
+    top: unset;
+    margin-right: 40px;
+    margin-top: 5px;
+
+    img {
+        width: 150px;
+    }
+}
+
+.btn_6 {
+    display: none;
+}
+
+.btn_2.btn_6 {
+    margin-right: 0;
+}
+
+.btn_icon_2 {
+    min-width: 17px;
+}
+
+.icon_2 {
+    opacity: 0;
+}
+
+.btn_6.active {
+    .icon_1 {
+        opacity: 0;
+    }
+
+    .icon_2 {
+        opacity: 1;
+    }
+}
+
+.btn_7 {
+    grid-column: span 2;
+}
+
+.icon {
+    transition: opacity 0.2s;
+    position: absolute;
+}
+
+.item {
+    margin-left: 20px;
+}
+
+.menu {
+    position: absolute;
+    width: 100%;
+    background-color: white;
+    z-index: 1;
+    box-shadow: 0px -8px 25px rgba(155, 99, 248, 0.15);
+    bottom: 0;
+    transition: bottom 0.2s;
+}
+
+.menu.active {
+    bottom: -105px;
+}
+
+.menu__inner {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-row-gap: 20px;
+    padding-top: 16px;
+    padding-bottom: 10px;
+}
+
+.menu__inner_auth {
+    grid-template-columns: 1fr 1fr 1fr;
+
+    .btn_7 {
+        grid-column: span 3
+    }
+}
+
+.navlink_adaptive {
+    height: 20px;
+}
+
+@media (max-width: 1750px) {
+    .logo {
+        display: none;
+    }
+
+    .block .logo {
+        display: block;
+    }
+}
+
+@media (max-width: $break_xl) {
+    .navlink:not(:last-child) {
+        margin-right: 20px;
+    }
+
+    .block .logo {
+        margin-right: 30px;
+    }
+
+    .btn_1 {
+        min-width: auto;
+    }
+
+    .btn_5 {
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+}
+
+@media (max-width: $break_lg) {
+    .block .logo img{
+        width: 110px;
+    }
+
+    .navlink {
+        font-size: 12px;
+    }
+
+    .btn_4__text {
+        display: none;
+    }
+
+    .btn_4 {
+        min-width: 40px;
+    }
+
+    .btn_icon_2 {
+        margin-right: 0;
+    }
+}
+
+@media (max-width: $break_md) {
+
+    .btn_6 {
+        display: flex;
+    }
+
+    .navlink {
+        display: none;
+    }
+
+    .navbar {
+        height: 66px;
+    }
+
+    .btn_1 {
+        display: none;
+    }
+
+    .item {
+        margin-left: 18px;
+    }
+
+    .btn_2 img {
+        width: 16px;
+        margin-right: 2px;
+    }
+
+    body .block {
+        .btn_2, .btn_4 {
+            min-width: 36px;
+            height: 36px;
+            padding: 0;
+        }
+    }
+
+    .btn_5 {
+        margin-right: 0;
+        margin-top: 6px;
+        margin-left: 0;
+    }
+
+    .block,
+    body .navbar .inner {
+        background-color: white!important;
+    }
+}

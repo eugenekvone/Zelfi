@@ -1,0 +1,55 @@
+@import "../../../../../../scss/vars";
+
+.item {
+  padding: 15px 20px;
+  display: grid;
+  align-items: center;
+  grid-template-columns: 1fr auto auto;
+  grid-gap: 58px;
+}
+
+.block_1 {
+  margin-bottom: 20px;
+}
+
+.block_2 {
+  display: grid;
+  grid-template-columns: 220px 220px;
+  grid-gap: 31px;
+}
+
+@media (max-width: $break_xl) {
+  .block_2 {
+    grid-template-columns: 220px;
+  }
+}
+
+@media (max-width: $break_lg) {
+  .item {
+    grid-template-columns: 1fr auto;
+    grid-gap: 20px;
+  }
+
+  .block_2 {
+    grid-template-columns: 1fr 1fr;
+    grid-column: span 2;
+  }
+}
+
+@media (max-width: $break_md) {
+  .item {
+    grid-template-columns: 1fr;
+  }
+
+  .block_2 {
+    grid-column: unset;
+    grid-template-columns: 1fr;
+  }
+
+  .block_3 {
+    display: grid;
+    grid-gap: 15px;
+  }
+}
+
+

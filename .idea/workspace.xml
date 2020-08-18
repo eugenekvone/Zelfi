@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6bbfdfb-51fd-4ece-9599-f62d888c42e9" name="Default Changelist" comment="fff">
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/AddressBlock/AddressBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/AppraisalBlock/AppraisalBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/AppraisalBlock/Form_1/Form_1.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/AppraisalBlock/Form_2/Form_2.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/AvatarBlock/AvatarBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/BookmarkBlock/BookmarkBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/CarouselBlock/CarouselBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/CarouselBlock/Item/Item.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/CarouselIframeBlock/CarouselIframeBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/CloseBlock/CloseBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/ContactBlock/ContactBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/ContractBlock/ContractBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/CopyEventBlock/CopyEventBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/FixBlock/FixBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/GridBlock/GridBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/GridBlock/GridBlock_carousel.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/GridBlock/Item/Date/Date.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/GridBlock/Item/Item.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/HelpBlock/HelpBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/HelpBlock/Individ/IndividForm/IndividForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/HelpBlock/Legal/Legal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/HelpBlock/Legal/LegalForm/LegalForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/IframeBlock/IframeBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/InfoBlock/InfoBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/InfoWrapBlock/InfoWrapBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/InfoWrapBlock/Item/Item.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/ItemWrapBlock/Item/Item.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/ItemWrapBlock/ItemWrapBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/MajorityBlock/MajorityBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/MapBlock/MapBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/ModalWrapBlock/ModalWrapBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/NavBlock/NavBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/PhotoBlock/Modal/Modal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/PhotoBlock/PhotoBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/PriceBlock/PriceBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/SocialBlock/SocialBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/SortingBlock/SortingBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/SortingWrapBlock/SortingWrapBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/StepBlock/StepBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/TicketBlock/TicketBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/TitleBlock/TitleBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/TitleWrapBlock/TitleWrapBlock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/TypeBlock/Item/Item.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blocks/TypeBlock/TypeBlock.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Zelfi_build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Zelfi_build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Blocks/Block_1/Item/btn_favorites_icon_active.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Blocks/Block_1/Item/btn_favorites_icon_active.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Blocks/Block_1/Item/btn_favorites_icon_disabled.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Blocks/Block_1/Item/btn_favorites_icon_disabled.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Blocks/Block_1/Item/icon_1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Blocks/Block_1/Item/icon_1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Blocks/Block_1/Item/icon_2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Blocks/Block_1/Item/icon_2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Blocks/Block_1/Item/icon_3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Blocks/Block_1/Item/icon_3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Blocks/Block_1/btn__icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Blocks/Block_1/btn__icon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Blocks/Block_2/Item/icon_1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Blocks/Block_2/Item/icon_1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Blocks/Block_2/Item/icon_2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Blocks/Block_2/Item/icon_2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Blocks/Block_2/Item/icon_3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Blocks/Block_2/Item/icon_3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Blocks/Block_24/icon_1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Blocks/Block_24/icon_1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Blocks/Block_24/icon_2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Blocks/Block_24/icon_2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Blocks/Block_24/icon_3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Blocks/Block_24/icon_3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Blocks/Block_7/rating__item_disabled.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Blocks/Block_7/rating__item_disabled.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Commons/Btns/BtnOpenAll/icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Commons/Btns/BtnOpenAll/icon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Commons/Btns/BtnSorting/icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Commons/Btns/BtnSorting/icon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Commons/Rating/item_active.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Commons/Rating/item_active.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Commons/Rating/item_disabled.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Commons/Rating/item_disabled.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Elements/check.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Elements/check.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Elements/date_icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Elements/date_icon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Elements/nav-left.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Elements/nav-left.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Elements/nav-next.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Elements/nav-next.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Elements/nav-next_2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Elements/nav-next_2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Elements/nav-prev_2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Elements/nav-prev_2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Elements/selector_icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Elements/selector_icon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Footer/link__icon_1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Footer/link__icon_1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Footer/link__icon_2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Footer/link__icon_2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Footer/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Footer/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Footer/redbox_logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Footer/redbox_logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Footer/social__item_icon_1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Footer/social__item_icon_1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Footer/social__item_icon_2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Footer/social__item_icon_2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Footer/social__item_icon_3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Footer/social__item_icon_3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Footer/social__item_icon_4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Footer/social__item_icon_4.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Main/MainForm/input_icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Main/MainForm/input_icon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Main/block_back_2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Main/block_back_2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Main/block_back_3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Main/block_back_3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Main/btn__icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Main/btn__icon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Navbar/btn-icon-1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Navbar/btn-icon-1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Navbar/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/Navbar/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/About/About.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About/About.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/About/About.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About/About.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Activity/Activity.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Activity/Activity.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Activity/Activity.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Activity/Activity.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Activity/ActivityContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Activity/ActivityContainer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Administrator.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Administrator.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Editing/Editing.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Editing/Editing.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Editing/Editing.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Editing/Editing.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Editing/EditingForm/EditingForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Editing/EditingForm/EditingForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Editing/Modals/Items/Item/Item.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Editing/Modals/Items/Item/Item.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Editing/Modals/Items/Item/Item.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Editing/Modals/Items/Item/Item.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Editing/Modals/Items/Items.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Editing/Modals/Items/Items.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Editing/Modals/Items/Items.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Editing/Modals/Items/Items.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Editing/Modals/Modal_1/ModalForm/ModalForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Editing/Modals/Modal_1/ModalForm/ModalForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Editing/Modals/Modal_1/ModalForm/ModalForm.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Editing/Modals/Modal_1/ModalForm/ModalForm.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Editing/Modals/Modal_1/Modal_1.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Editing/Modals/Modal_1/Modal_1.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Editing/Modals/Modal_1/Modal_1.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Editing/Modals/Modal_1/Modal_1.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Editing/Modals/Modal_2/ModalForm/Item/Item.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Editing/Modals/Modal_2/ModalForm/Item/Item.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Editing/Modals/Modal_2/ModalForm/Item/Item.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Editing/Modals/Modal_2/ModalForm/Item/Item.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Editing/Modals/Modal_2/ModalForm/ModalForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Editing/Modals/Modal_2/ModalForm/ModalForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Editing/Modals/Modal_2/ModalForm/ModalForm.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Editing/Modals/Modal_2/ModalForm/ModalForm.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Editing/Modals/Modal_2/Modal_2.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Editing/Modals/Modal_2/Modal_2.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Editing/Modals/Modal_2/Modal_2.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Editing/Modals/Modal_2/Modal_2.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Finance/Activity/Activity.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Finance/Activity/Activity.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Finance/Activity/Activity.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Finance/Activity/Activity.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Finance/Activity/ActivityForm/ActivityForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Finance/Activity/ActivityForm/ActivityForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Finance/Activity/Item/Item.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Finance/Activity/Item/Item.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Finance/Activity/Item/Item.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Finance/Activity/Item/Item.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Finance/Activity/Modal/Modal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Finance/Activity/Modal/Modal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Finance/Activity/Modal/ModalForm/ModalForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Finance/Activity/Modal/ModalForm/ModalForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Finance/Donations/Donations.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Finance/Donations/Donations.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Finance/Donations/Donations.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Finance/Donations/Donations.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Finance/Donations/DonationsForm/DonationsForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Finance/Donations/DonationsForm/DonationsForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Finance/Donations/Item/Item.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Finance/Donations/Item/Item.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Finance/Donations/Item/Item.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Finance/Donations/Item/Item.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Finance/Finance.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Finance/Finance.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Finance/FinanceCompanies/FinanceCompanies.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Finance/FinanceCompanies/FinanceCompanies.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Finance/FinanceCompanies/FinanceCompanies.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Finance/FinanceCompanies/FinanceCompanies.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Finance/FinanceCompanies/FinanceCompaniesForm/FinanceCompaniesForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Finance/FinanceCompanies/FinanceCompaniesForm/FinanceCompaniesForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Finance/FinanceCompanies/Item/Item.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Finance/FinanceCompanies/Item/Item.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Finance/FinanceCompanies/Item/Item.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Finance/FinanceCompanies/Item/Item.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Moderation/AccountManagement/AccountManagement.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Moderation/AccountManagement/AccountManagement.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Moderation/AccountManagement/AccountManagementForm/AccountManagementForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Moderation/AccountManagement/AccountManagementForm/AccountManagementForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Moderation/AccountManagement/Item/Item.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Moderation/AccountManagement/Item/Item.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Moderation/AccountManagement/Item/Item.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Moderation/AccountManagement/Item/Item.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Moderation/Activity/Activity.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Moderation/Activity/Activity.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Moderation/Activity/Activity.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Moderation/Activity/Activity.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Moderation/Activity/ActivityForm/ActivityForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Moderation/Activity/ActivityForm/ActivityForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Moderation/Activity/Item/Item.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Moderation/Activity/Item/Item.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Moderation/Activity/Item/Item.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Moderation/Activity/Item/Item.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Moderation/Activity/Modal/Modal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Moderation/Activity/Modal/Modal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Moderation/Activity/Modal/ModalForm/ModalForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Moderation/Activity/Modal/ModalForm/ModalForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Moderation/Inquiries/Inquiries.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Moderation/Inquiries/Inquiries.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Moderation/Inquiries/Inquiries.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Moderation/Inquiries/Inquiries.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Moderation/Inquiries/InquiriesActivity/InquiriesActivity.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Moderation/Inquiries/InquiriesActivity/InquiriesActivity.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Moderation/Inquiries/InquiriesActivity/InquiriesActivity.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Moderation/Inquiries/InquiriesActivity/InquiriesActivity.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Moderation/Inquiries/InquiriesActivity/Item/Item.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Moderation/Inquiries/InquiriesActivity/Item/Item.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Moderation/Inquiries/InquiriesActivity/Item/Item.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Moderation/Inquiries/InquiriesActivity/Item/Item.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Moderation/Inquiries/InquiriesForm/InquiriesForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Moderation/Inquiries/InquiriesForm/InquiriesForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Moderation/Inquiries/Item/Item.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Moderation/Inquiries/Item/Item.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Moderation/Inquiries/Item/Item.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Moderation/Inquiries/Item/Item.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Moderation/Moderation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Moderation/Moderation.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Newsletter/Newsletter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Newsletter/Newsletter.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Newsletter/Newsletter.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Newsletter/Newsletter.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Newsletter/NewsletterForm/NewsletterForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Newsletter/NewsletterForm/NewsletterForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Newsletter/NewsletterForm/NewsletterForm.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Newsletter/NewsletterForm/NewsletterForm.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Statistics/Statistics.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Statistics/Statistics.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Statistics/Statistics.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Statistics/Statistics.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Administrator/Statistics/StatisticsForm/StatisticsForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Administrator/Statistics/StatisticsForm/StatisticsForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_1/Block_1.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_1/Block_1.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/GridBlock/GridBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_1/Block_1_carousel.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_1/Containers/AllActivity__Block_1.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/GridBlock/Containers/AllActivity__GridBlock.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_1/Containers/AllActivity__Block_1_carousel.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/GridBlock/Containers/AllActivity__GridBlock_carousel.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_1/Containers/RecommendActivity__Block_1.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/GridBlock/Containers/RecommendActivity__GridBlock.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_1/Item/Date/Date.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_1/Item/Date/Date.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/GridBlock/Item/Date/Date.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_1/Item/Item.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_1/Item/Item.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/GridBlock/Item/Item.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_10/Block_10.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_10/Block_10.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/BookmarkBlock/BookmarkBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_11/Block_11.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_11/Block_11.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/CopyEventBlock/CopyEventBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_12/Block_12.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_12/Block_12.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/PriceBlock/PriceBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_13/Block_13.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_13/Block_13.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/StepBlock/StepBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_14/Block_14.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_14/Block_14.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/PhotoBlock/PhotoBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_14/Modal/Modal.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_15/Block_15.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_15/Block_15.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/TicketBlock/TicketBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_16/Block_16.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_16/Block_16.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/TitleBlock/TitleBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_17/Block_17.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_17/Block_17.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/TitleWrapBlock/TitleWrapBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_18/Block_18.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_18/Block_18.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/ContactBlock/ContactBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_19/Block_19.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_19/Block_19.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/MajorityBlock/MajorityBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_2/Block_2.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_2/Block_2.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/CarouselBlock/CarouselBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_2/Containers/TopPartic__Block_2.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/CarouselBlock/Containers/TopPartic__CarouselBlock.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_2/Item/Item.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_2/Item/Item.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/CarouselBlock/Item/Item.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_20/Block_20.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_20/Block_20.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/ItemWrapBlock/ItemWrapBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_20/Item/Item.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_20/Item/Item.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/ItemWrapBlock/Item/Item.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_21/Block_21.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_21/Block_21.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/AvatarBlock/AvatarBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_22/Block_22.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_22/Block_22.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/ContractBlock/ContractBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_23/Block_23.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_23/Block_23.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/HelpBlock/HelpBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_23/Block_23_Container.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/HelpBlock/HelpBlock_Container.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_23/Individ/Individ.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/HelpBlock/Individ/Individ.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_23/Individ/IndividForm/IndividForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_23/Legal/Legal.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_23/Legal/LegalForm/LegalForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_24/Block_24.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_24/Block_24.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/FixBlock/FixBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_25/Block_25.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_25/Block_25.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/SortingBlock/SortingBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_26/Block_26.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_26/Block_26.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/InfoWrapBlock/InfoWrapBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_26/Item/Item.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_26/Item/Item.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/InfoWrapBlock/Item/Item.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_27/Block_27.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_27/Block_27.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/ModalWrapBlock/ModalWrapBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_28/Block_28.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_28/Block_28.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/InfoBlock/InfoBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_29/Block_29.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_29/Block_29.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/SortingWrapBlock/SortingWrapBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_3/Block_3.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_3/Block_3.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/IframeBlock/IframeBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_30/Block_30.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_30/Block_30.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/SocialBlock/SocialBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_31/Block_31.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_31/Block_31.module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_32/Block_32.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_32/Block_32.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/NavBlock/NavBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_4/Block_4.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_4/Block_4.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/CarouselIframeBlock/CarouselIframeBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_5/Block_5.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_5/Block_5.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/MapBlock/MapBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_6/Block_6.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_6/Block_6.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/CloseBlock/CloseBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_7/Block_7.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_7/Block_7.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/AppraisalBlock/AppraisalBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_7/Form_1/Form_1.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_7/Form_2/Form_2.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_7/Form_2/Form_2.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/AppraisalBlock/Form_2/Form_2.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_8/Block_8.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_8/Block_8.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/AddressBlock/AddressBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_9/Block_9.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_9/Block_9.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/TypeBlock/TypeBlock.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_9/Item/Item.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blocks/Block_9/Item/Item.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blocks/TypeBlock/Item/Item.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Buy/Buy.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Buy/Buy.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Buy/Finish/Finish.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Buy/Finish/Finish.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Buy/Finish/Finish.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Buy/Finish/Finish.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Buy/Main/BuyForm/BuyForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Buy/Main/BuyForm/BuyForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Buy/Main/BuyForm/BuyForm.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Buy/Main/BuyForm/BuyForm.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Buy/Main/Main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Buy/Main/Main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/AllDates/AllDates.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/AllDates/AllDates.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/AllDates/AllDates.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/AllDates/AllDates.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Bar/Bar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Bar/Bar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Bar/BarAdaptive.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Bar/BarAdaptive.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Bookmark/Bookmark.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Bookmark/Bookmark.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Bookmark/Bookmark.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Bookmark/Bookmark.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Btns/BtnBack/BtnBack.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Btns/BtnBack/BtnBack.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Btns/BtnBack/BtnBack.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Btns/BtnBack/BtnBack.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Btns/BtnClose/BtnClose.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Btns/BtnClose/BtnClose.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Btns/BtnClose/BtnClose.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Btns/BtnClose/BtnClose.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Btns/BtnLink/BtnLink.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Btns/BtnLink/BtnLink.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Btns/BtnLink/BtnLink.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Btns/BtnLink/BtnLink.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Btns/BtnNav/BtnNav.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Btns/BtnNav/BtnNav.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Btns/BtnNav/BtnNav.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Btns/BtnNav/BtnNav.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Btns/BtnOpenAll/BtnOpenAll.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Btns/BtnOpenAll/BtnOpenAll.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Btns/BtnOpenAll/BtnOpenAll.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Btns/BtnOpenAll/BtnOpenAll.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Btns/BtnSet/BtnSet.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Btns/BtnSet/BtnSet.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Btns/BtnSet/BtnSet.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Btns/BtnSet/BtnSet.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Btns/BtnSet/Item/Item.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Btns/BtnSet/Item/Item.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Btns/BtnSet/Item/Item.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Btns/BtnSet/Item/Item.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Btns/BtnSorting/BtnSorting.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Btns/BtnSorting/BtnSorting.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Btns/BtnSorting/BtnSorting.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Btns/BtnSorting/BtnSorting.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Checkbox/Checkbox.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Checkbox/Checkbox.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/FormsControls/FormsControls.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/FormsControls/FormsControls.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/FormsControls/FormsControls.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/FormsControls/FormsControls.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Info/Info.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Info/Info.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Info/Info.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Info/Info.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/ItemInput/ItemInput.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/ItemInput/ItemInput.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Link/Link.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Link/Link.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Link/Link.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Link/Link.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Numbers/Numbers.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Numbers/Numbers.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Numbers/Numbers.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Numbers/Numbers.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Paginator/Paginator.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Paginator/Paginator.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Paginator/Paginator.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Paginator/Paginator.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Points/Points.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Points/Points.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Radio/Radio.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Radio/Radio.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/RangeDatePicker/RangeDatePicker.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/RangeDatePicker/RangeDatePicker.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Rating/Rating.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Rating/Rating.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Rating/Rating.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Rating/Rating.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Search/Search.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Search/Search.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/TextRedactor/TextRedactor.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/TextRedactor/TextRedactor.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/TextRedactor/TextRedactor.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/TextRedactor/TextRedactor.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Title/Title.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Title/Title.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Commons/Title/Title.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Commons/Title/Title.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Contacts/Contacts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts/Contacts.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Contacts/Contacts.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts/Contacts.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Contacts/ContactsContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts/ContactsContainer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Contacts/ContactsForm/ContactsForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts/ContactsForm/ContactsForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/Control.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/Control.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/Modals/Modal_1/Modal_1.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/Modals/Modal_1/Modal_1.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/Modals/Modal_1/Modal_1.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/Modals/Modal_1/Modal_1.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/Modals/Modal_1/Modal_1_Form/Modal_1_Form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/Modals/Modal_1/Modal_1_Form/Modal_1_Form.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/Modals/Modal_2/Modal_2.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/Modals/Modal_2/Modal_2.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/Modals/Modal_2/Modal_2.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/Modals/Modal_2/Modal_2.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/MyActivities/Modernization/Item/Item.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/MyActivities/Modernization/Item/Item.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/MyActivities/Modernization/Item/Item.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/MyActivities/Modernization/Item/Item.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/MyActivities/Modernization/Modernization.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/MyActivities/Modernization/Modernization.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/MyActivities/Modernization/ModernizationForm/ModernizationForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/MyActivities/Modernization/ModernizationForm/ModernizationForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/MyActivities/MyActivities.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/MyActivities/MyActivities.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/MyActivities/MyActivities.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/MyActivities/MyActivities.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/MyActivities/Past/Item/Item.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/MyActivities/Past/Item/Item.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/MyActivities/Past/Item/Item.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/MyActivities/Past/Item/Item.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/MyActivities/Past/Past.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/MyActivities/Past/Past.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/MyActivities/Past/PastForm/PastForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/MyActivities/Past/PastForm/PastForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/MyActivities/Relevant/Activity/Activity.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/MyActivities/Relevant/Activity/Activity.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/MyActivities/Relevant/Activity/Activity.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/MyActivities/Relevant/Activity/Activity.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/MyActivities/Relevant/Item/Item.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/MyActivities/Relevant/Item/Item.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/MyActivities/Relevant/Item/Item.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/MyActivities/Relevant/Item/Item.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/MyActivities/Relevant/Relevant.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/MyActivities/Relevant/Relevant.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/MyActivities/Relevant/RelevantForm/RelevantForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/MyActivities/Relevant/RelevantForm/RelevantForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/MyOrganizations/Item/Item.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/MyOrganizations/Item/Item.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/MyOrganizations/MyOrganizations.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/MyOrganizations/MyOrganizations.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/MyOrganizations/MyOrganizations.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/MyOrganizations/MyOrganizations.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/MyOrganizations/Organization/Modal/Modal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/MyOrganizations/Organization/Modal/Modal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/MyOrganizations/Organization/Modal/Modal.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/MyOrganizations/Organization/Modal/Modal.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/MyOrganizations/Organization/Modal/ModalForm/ModalForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/MyOrganizations/Organization/Modal/ModalForm/ModalForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/MyOrganizations/Organization/Organization.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/MyOrganizations/Organization/Organization.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/MyOrganizations/Organization/Organization.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/MyOrganizations/Organization/Organization.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/MyOrganizations/Organization/OrganizationForm/OrganizationForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/MyOrganizations/Organization/OrganizationForm/OrganizationForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/MyOrganizations/Organization/OrganizationForm/OrganizationForm.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/MyOrganizations/Organization/OrganizationForm/OrganizationForm.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/MyOrganizations/Organization/Past/Past.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/MyOrganizations/Organization/Past/Past.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/MyOrganizations/Organization/Relevant/Relevant.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/MyOrganizations/Organization/Relevant/Relevant.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/OutputMeans/OutputMeans.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/OutputMeans/OutputMeans.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/OutputMeans/OutputMeans.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/OutputMeans/OutputMeans.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateActivity/CreateActivity.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateActivity/CreateActivity.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateActivity/CreateActivity.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateActivity/CreateActivity.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateActivity/Requisites/Requisites.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateActivity/Requisites/Requisites.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateActivity/Step_1/Modal/Modal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateActivity/Step_1/Modal/Modal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateActivity/Step_1/Modal/Modal.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateActivity/Step_1/Modal/Modal.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateActivity/Step_1/Step_1.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateActivity/Step_1/Step_1.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateActivity/Step_1/Step_1_Container.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateActivity/Step_1/Step_1_Container.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateActivity/Step_1/Step_1_Form/DataDate_Form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateActivity/Step_1/Step_1_Form/DataDate_Form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateActivity/Step_1/Step_1_Form/Date_Form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateActivity/Step_1/Step_1_Form/Date_Form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateActivity/Step_1/Step_1_Form/Step_1_Form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateActivity/Step_1/Step_1_Form/Step_1_Form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateActivity/Step_1/Step_1_Form/Step_1_Form.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateActivity/Step_1/Step_1_Form/Step_1_Form.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateActivity/Step_2/Step_2.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateActivity/Step_2/Step_2.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateActivity/Step_2/Step_2.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateActivity/Step_2/Step_2.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateActivity/Step_2/Step_2_Container.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateActivity/Step_2/Step_2_Container.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateActivity/Step_2/Step_2_Form/QuestionForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateActivity/Step_2/Step_2_Form/QuestionForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateActivity/Step_2/Step_2_Form/QuestionForm.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateActivity/Step_2/Step_2_Form/QuestionForm.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateActivity/Step_2/Step_2_Form/RadioForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateActivity/Step_2/Step_2_Form/RadioForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateActivity/Step_2/Step_2_Form/Step_2_Form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateActivity/Step_2/Step_2_Form/Step_2_Form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateActivity/Step_2/Step_2_Form/TicketForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateActivity/Step_2/Step_2_Form/TicketForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateActivity/Step_2/Step_2_Form/TicketForm.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateActivity/Step_2/Step_2_Form/TicketForm.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateActivity/Step_3/Step_3.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateActivity/Step_3/Step_3.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateActivity/Step_3/Step_3.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateActivity/Step_3/Step_3.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateActivity/Step_3/Step_3_Container.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateActivity/Step_3/Step_3_Container.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateActivity/Step_4/Step_4.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateActivity/Step_4/Step_4.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateActivity/Step_4/Step_4.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateActivity/Step_4/Step_4.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateOrganization/CreateOrganization.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateOrganization/CreateOrganization.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateOrganization/CreateOrganizationContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateOrganization/CreateOrganizationContainer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateOrganization/Info/Info.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateOrganization/Info/Info.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateOrganization/Info/InfoContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateOrganization/Info/InfoContainer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateOrganization/Main/Main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateOrganization/Main/Main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateOrganization/Main/MainForm/MainForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateOrganization/Main/MainForm/MainForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateOrganization/Success/Success.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateOrganization/Success/Success.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateOrganization/Success/Success.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateOrganization/Success/Success.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Links/Links.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Links/Links.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Login/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Login/Login.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Login/LoginContent/LoginContent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Login/LoginContent/LoginContent.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Login/LoginContent/LoginContentContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Login/LoginContent/LoginContentContainer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Login/LoginContent/LoginForm/LoginForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Login/LoginContent/LoginForm/LoginForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/Main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main/Main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/Main.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main/Main.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/MainForm/MainForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main/MainForm/MainForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Members/Item/Item.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Members/Item/Item.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Members/Item/Item.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Members/Item/Item.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Members/Members.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Members/Members.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Members/Members.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Members/Members.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Members/MembersForm/MembersForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Members/MembersForm/MembersForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Members/Modal/Modal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Members/Modal/Modal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Members/Modal/Modal.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Members/Modal/Modal.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Modals/Confirmation/Modals/Modal_1/Modal_1.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modals/Confirmation/Modals/Modal_1/Modal_1.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Modals/Confirmation/Modals/Modal_1/Modal_1_Form/Modal_1_Form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modals/Confirmation/Modals/Modal_1/Modal_1_Form/Modal_1_Form.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Modals/Confirmation/Modals/Modal_2/Modal_2.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modals/Confirmation/Modals/Modal_2/Modal_2.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Modals/Confirmation/Modals/Modal_2/Modal_2.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modals/Confirmation/Modals/Modal_2/Modal_2.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Modals/Confirmation/Modals/Modal_3/Modal_3.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modals/Confirmation/Modals/Modal_3/Modal_3.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Modals/Confirmation/Modals/Modal_3/Modal_3.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modals/Confirmation/Modals/Modal_3/Modal_3.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Modals/Donations/Modal_1/Modal_1.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modals/Donations/Modal_1/Modal_1.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Modals/Donations/Modal_1/Modal_1_Form/Modal_1_Form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modals/Donations/Modal_1/Modal_1_Form/Modal_1_Form.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Modals/Donations/Modal_2/Modal_2.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modals/Donations/Modal_2/Modal_2.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Modals/Donations/Modal_2/Modal_2.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modals/Donations/Modal_2/Modal_2.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Modal/Modal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Modal/Modal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Modal/Modal.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Modal/Modal.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar/NavbarContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/NavbarContainer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/New/New.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/New/New.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Notifications/All/All.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Notifications/All/All.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Notifications/All/All.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Notifications/All/All.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Notifications/All/Item/Item.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Notifications/All/Item/Item.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Notifications/All/Item/Item.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Notifications/All/Item/Item.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Notifications/Notifications.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Notifications/Notifications.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Notifications/Points/Item/Item.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Notifications/Points/Item/Item.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Notifications/Points/Item/Item.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Notifications/Points/Item/Item.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Notifications/Points/Points.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Notifications/Points/Points.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Organization/Organization.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Organization/Organization.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Organization/Organization.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Organization/Organization.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Organization/OrganizationForm/OrganizationForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Organization/OrganizationForm/OrganizationForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Partners/Partners.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Partners/Partners.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Partners/Partners.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Partners/Partners.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Bookmarks/Activities/Activities.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Bookmarks/Activities/Activities.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Bookmarks/Activities/Activities.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Bookmarks/Activities/Activities.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Bookmarks/Activities/ActivitiesForm/ActivitiesForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Bookmarks/Activities/ActivitiesForm/ActivitiesForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Bookmarks/Activities/Item/Item.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Bookmarks/Activities/Item/Item.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Bookmarks/Activities/Item/Item.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Bookmarks/Activities/Item/Item.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Bookmarks/Bookmarks.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Bookmarks/Bookmarks.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Bookmarks/Organization/Item/Item.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Bookmarks/Organization/Item/Item.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Bookmarks/Organization/Item/Item.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Bookmarks/Organization/Item/Item.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Bookmarks/Organization/Organization.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Bookmarks/Organization/Organization.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Bookmarks/Organization/Organization.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Bookmarks/Organization/Organization.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Bookmarks/Organization/OrganizationForm/OrganizationForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Bookmarks/Organization/OrganizationForm/OrganizationForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Main/Main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Main/Main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Main/Main.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Main/Main.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Main/MainForm/MainForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Main/MainForm/MainForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyTickets/Archive/Archive.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyTickets/Archive/Archive.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyTickets/Archive/Archive.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyTickets/Archive/Archive.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyTickets/Archive/ArchiveForm/ArchiveForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyTickets/Archive/ArchiveForm/ArchiveForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyTickets/Item/Item.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyTickets/Item/Item.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyTickets/Item/Item.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyTickets/Item/Item.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyTickets/Item/Modals/Modal_1/Modal_1.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyTickets/Item/Modals/Modal_1/Modal_1.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyTickets/Item/Modals/Modal_1/Modal_1_Form/Modal_1_Form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyTickets/Item/Modals/Modal_1/Modal_1_Form/Modal_1_Form.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyTickets/Item/Modals/Modal_2/Modal_2.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyTickets/Item/Modals/Modal_2/Modal_2.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyTickets/Item/Modals/Modal_2/Modal_2.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyTickets/Item/Modals/Modal_2/Modal_2.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyTickets/MyTickets.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyTickets/MyTickets.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyTickets/Relevant/Relevant.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyTickets/Relevant/Relevant.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Rating/Item/Item.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Rating/Item/Item.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Rating/Item/Item.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Rating/Item/Item.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Rating/Rating.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Rating/Rating.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Rating/Rating.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Rating/Rating.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Rating/RatingForm/DonationsForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Rating/RatingForm/DonationsForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Recovery/Main/Main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Recovery/Main/Main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Recovery/Main/MainContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Recovery/Main/MainContainer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Recovery/Main/MainForm'/MainForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Recovery/Main/MainForm'/MainForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Recovery/Password/Password.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Recovery/Password/Password.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Recovery/Password/PasswordContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Recovery/Password/PasswordContainer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Recovery/Password/PasswordForm/PasswordForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Recovery/Password/PasswordForm/PasswordForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Recovery/Recovery.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Recovery/Recovery.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Recovery/Send/Send.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Recovery/Send/Send.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Recovery/Send/Send.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Recovery/Send/Send.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Recovery/Send/SendContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Recovery/Send/SendContainer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Recovery/Success/Success.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Recovery/Success/Success.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Recovery/Success/Success.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Recovery/Success/Success.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Registration/Main/Main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Registration/Main/Main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Registration/Main/MainContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Registration/Main/MainContainer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Registration/Main/MainForm/MainForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Registration/Main/MainForm/MainForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Registration/Password/Password.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Registration/Password/Password.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Registration/Password/Password.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Registration/Password/Password.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Registration/Password/PasswordContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Registration/Password/PasswordContainer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Registration/Password/PasswordForm/PasswordForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Registration/Password/PasswordForm/PasswordForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Registration/Registration.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Registration/Registration.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Registration/Send/Send.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Registration/Send/Send.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Registration/Send/Send.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Registration/Send/Send.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Registration/Send/SendContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Registration/Send/SendContainer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Registration/Success/Success.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Registration/Success/Success.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Registration/Success/Success.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Registration/Success/Success.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dal/constants/Activitys.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/dal/constants/Activitys.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dal/constants/Add.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/dal/constants/Add.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dal/constants/Auth.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/dal/constants/Auth.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dal/constants/Blocks.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/dal/constants/Blocks.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dal/constants/Methods.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/dal/constants/Methods.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dal/constants/Organizations.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/dal/constants/Organizations.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dal/constants/Public.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/dal/constants/Public.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dal/instance.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/dal/instance.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers/activity-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/activity-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers/activitys-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/activitys-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers/add.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/add.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers/app-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/app-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers/auth-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/auth-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers/blocks-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/blocks-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers/create_activity-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/create_activity-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers/create_organization-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/create_organization-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers/methods-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/methods-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers/organizations-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/organizations-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers/partic-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/partic-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers/public-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/public-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/redux-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/redux-store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/selectors/activity-selectors.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/selectors/activity-selectors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/selectors/auth-selectors.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/selectors/auth-selectors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/selectors/partic-selectors.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/selectors/partic-selectors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/adaptive.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/adaptive.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/common.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/container.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/container.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/fonts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/normalize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/normalize.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/text.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/vars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/NumbFormat.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/NumbFormat.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/Required.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/Required.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/SubmitNext.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/SubmitNext.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/Validation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/Validation.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/areEqual.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/areEqual.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/imgReader.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/imgReader.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/phoneReader.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/phoneReader.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bXWRVMdoqU70xNRslXouzBCmCC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Energo-CRM_Cards" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="ts.external.directory.path" value="C:\EugeneKV\Programs\WebStorm 2020.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\EugeneKV\My\Work\Projects\Layouts\GitHub\Zelfi_build\src\components\Login\LoginContent" />
+      <recent name="C:\EugeneKV\My\Work\Projects\Layouts\GitHub\Zelfi_build\src\components\Login\LoginContent\LoginForm" />
+      <recent name="C:\EugeneKV\My\Work\Projects\Layouts\GitHub\Zelfi_build\src\components\Blocks\Block_23" />
+      <recent name="C:\EugeneKV\My\Work\Projects\Layouts\GitHub\Zelfi_build\src\components\CreateEvent\Step_2" />
+      <recent name="C:\EugeneKV\My\Work\Projects\Layouts\GitHub\Zelfi_build\src\dal\constants" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\EugeneKV\My\Work\Projects\Layouts\GitHub\Zelfi_build\src\components\CreateActivity\Step_1\Modal" />
+      <recent name="C:\EugeneKV\My\Work\Projects\Layouts\GitHub\Zelfi_build\src\components\Commons\ShowAll" />
+      <recent name="C:\EugeneKV\My\Work\Projects\Layouts\GitHub\Zelfi_build\src\components\Links" />
+      <recent name="C:\EugeneKV\My\Work\Projects\Layouts\GitHub\Zelfi_build\src\components\Commons\Bar" />
+      <recent name="C:\EugeneKV\My\Work\Projects\Layouts\GitHub\Zelfi_build\src\components\CreateEvent\Step_2\Step_2_Form" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="https://zelfi-dev.rdbx24.ru" />
+          <option name="urlPath" value="/api/auth/register_one_user" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;name&quot;:&quot;Евгений&quot;,&quot;last_name&quot;:&quot;Кудряшов&quot;,&quot;email&quot;:&quot;eugenekv.one@gmail.com&quot;,&quot;accept_confidence_license&quot;:true,&quot;accept_personal_license&quot;:true}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="https://zelfi-dev.rdbx24.ru" />
+          <option name="urlPath" value="/api/auth/register_one_user" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;name&quot;:&quot;Евгений&quot;,&quot;last_name&quot;:&quot;Кудряшов&quot;,&quot;email&quot;:&quot;eugenekv.one@gmail.com&quot;,&quot;accept_confidence_license&quot;:true,&quot;accept_personal_license&quot;:true}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="https://zelfi-dev.rdbx24.ru" />
+          <option name="urlPath" value="/api/auth/register_one_user" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="https://zelfi-dev.rdbx24.ru" />
+          <option name="urlPath" value="/api/auth/register_one_user" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="watch" type="js.build_tools.gulp" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>watch</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gulp.js.watch" />
+      <item itemvalue="npm.deploy" />
+      <item itemvalue="npm.start" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.deploy" />
+        <item itemvalue="Gulp.js.watch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6bbfdfb-51fd-4ece-9599-f62d888c42e9" name="Default Changelist" comment="" />
+      <created>1587123851324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587123851324</updated>
+      <workItem from="1587123858039" duration="42794000" />
+      <workItem from="1587211476593" duration="11693000" />
+      <workItem from="1587367425666" duration="20590000" />
+      <workItem from="1587451295232" duration="22936000" />
+      <workItem from="1587536569368" duration="30368000" />
+      <workItem from="1587626748650" duration="17418000" />
+      <workItem from="1587713496841" duration="19914000" />
+      <workItem from="1587973810469" duration="21874000" />
+      <workItem from="1588058785632" duration="20680000" />
+      <workItem from="1588143065532" duration="9810000" />
+      <workItem from="1588247032221" duration="4000" />
+      <workItem from="1588778914862" duration="1230000" />
+      <workItem from="1588780162973" duration="186000" />
+      <workItem from="1588835813315" duration="7080000" />
+      <workItem from="1588846289180" duration="957000" />
+      <workItem from="1588847406930" duration="7848000" />
+      <workItem from="1588858795674" duration="633000" />
+      <workItem from="1588936332586" duration="9405000" />
+      <workItem from="1589181616507" duration="7805000" />
+      <workItem from="1589198361776" duration="2576000" />
+      <workItem from="1589200957254" duration="9293000" />
+      <workItem from="1589265670984" duration="15237000" />
+      <workItem from="1589360488117" duration="632000" />
+      <workItem from="1589363911617" duration="15193000" />
+      <workItem from="1589382743451" duration="66000" />
+      <workItem from="1589438204457" duration="16146000" />
+      <workItem from="1589528596327" duration="23243000" />
+      <workItem from="1589783985745" duration="27330000" />
+      <workItem from="1589816792676" duration="10266000" />
+      <workItem from="1589870453564" duration="25129000" />
+      <workItem from="1589914581951" duration="4583000" />
+      <workItem from="1589919821052" duration="212000" />
+      <workItem from="1589957888819" duration="26930000" />
+      <workItem from="1590003655603" duration="8528000" />
+      <workItem from="1590013304937" duration="119000" />
+      <workItem from="1590042830103" duration="22919000" />
+      <workItem from="1590132371643" duration="35950000" />
+      <workItem from="1590315789697" duration="4963000" />
+      <workItem from="1590349582367" duration="6529000" />
+      <workItem from="1590389054177" duration="25748000" />
+      <workItem from="1590431324052" duration="704000" />
+      <workItem from="1590432038485" duration="6834000" />
+      <workItem from="1590477236182" duration="22399000" />
+      <workItem from="1590562540054" duration="18307000" />
+      <workItem from="1590592769538" duration="4487000" />
+      <workItem from="1590648316731" duration="23412000" />
+      <workItem from="1590734694673" duration="25520000" />
+      <workItem from="1590832653768" duration="6819000" />
+      <workItem from="1590904830965" duration="16838000" />
+      <workItem from="1591010452492" duration="9268000" />
+      <workItem from="1591080193226" duration="24345000" />
+      <workItem from="1591166278427" duration="21324000" />
+      <workItem from="1591191471508" duration="6015000" />
+      <workItem from="1591207526557" duration="15250000" />
+      <workItem from="1591251406793" duration="27221000" />
+      <workItem from="1591291894571" duration="7276000" />
+      <workItem from="1591299510251" duration="1388000" />
+      <workItem from="1591301074423" duration="220000" />
+      <workItem from="1591339229640" duration="28776000" />
+      <workItem from="1591387722840" duration="1809000" />
+      <workItem from="1591389556217" duration="1807000" />
+      <workItem from="1591391402011" duration="1793000" />
+      <workItem from="1591393222030" duration="352000" />
+      <workItem from="1591393676866" duration="1638000" />
+      <workItem from="1591428675276" duration="1658000" />
+      <workItem from="1591430492753" duration="1792000" />
+      <workItem from="1591432304546" duration="1795000" />
+      <workItem from="1591434113812" duration="1807000" />
+      <workItem from="1591436208748" duration="615000" />
+      <workItem from="1591438219671" duration="1797000" />
+      <workItem from="1591440053488" duration="1795000" />
+      <workItem from="1591441878946" duration="1796000" />
+      <workItem from="1591444039668" duration="1796000" />
+      <workItem from="1591445849882" duration="1796000" />
+      <workItem from="1591447658280" duration="1796000" />
+      <workItem from="1591449465744" duration="1795000" />
+      <workItem from="1591451278336" duration="2023000" />
+      <workItem from="1591456425945" duration="1767000" />
+      <workItem from="1591458380945" duration="1793000" />
+      <workItem from="1591460188991" duration="1795000" />
+      <workItem from="1591461997147" duration="551000" />
+      <workItem from="1591462800770" duration="843000" />
+      <workItem from="1591467522160" duration="140000" />
+      <workItem from="1591467677085" duration="52000" />
+      <workItem from="1591467830489" duration="1791000" />
+      <workItem from="1591469644435" duration="1793000" />
+      <workItem from="1591471501917" duration="1789000" />
+      <workItem from="1591473304968" duration="1794000" />
+      <workItem from="1591475111628" duration="801000" />
+      <workItem from="1591514917118" duration="745000" />
+      <workItem from="1591516770924" duration="1644000" />
+      <workItem from="1591518669309" duration="1795000" />
+      <workItem from="1591520476216" duration="1811000" />
+      <workItem from="1591522316630" duration="1793000" />
+      <workItem from="1591524122434" duration="1621000" />
+      <workItem from="1591527829282" duration="1783000" />
+      <workItem from="1591532137834" duration="2049000" />
+      <workItem from="1591534202310" duration="2061000" />
+      <workItem from="1591536283596" duration="1797000" />
+      <workItem from="1591538091181" duration="1337000" />
+      <workItem from="1591539916903" duration="1511000" />
+      <workItem from="1591541911638" duration="1797000" />
+      <workItem from="1591543719750" duration="1699000" />
+      <workItem from="1591545530495" duration="1013000" />
+      <workItem from="1591558688886" duration="1735000" />
+      <workItem from="1591560490521" duration="1432000" />
+      <workItem from="1591598384552" duration="1797000" />
+      <workItem from="1591600224914" duration="1791000" />
+      <workItem from="1591602061558" duration="1802000" />
+      <workItem from="1591604080769" duration="1799000" />
+      <workItem from="1591605893189" duration="1794000" />
+      <workItem from="1591607875607" duration="1784000" />
+      <workItem from="1591610209786" duration="1797000" />
+      <workItem from="1591612049363" duration="1794000" />
+      <workItem from="1591613855365" duration="1802000" />
+      <workItem from="1591615680818" duration="1796000" />
+      <workItem from="1591617506561" duration="1916000" />
+      <workItem from="1591619442775" duration="64000" />
+      <workItem from="1591621693861" duration="1794000" />
+      <workItem from="1591623500006" duration="1804000" />
+      <workItem from="1591625330757" duration="1793000" />
+      <workItem from="1591627136046" duration="1947000" />
+      <workItem from="1591629093949" duration="923000" />
+      <workItem from="1591642439058" duration="1716000" />
+      <workItem from="1591644393455" duration="1794000" />
+      <workItem from="1591646199956" duration="1794000" />
+      <workItem from="1591648006566" duration="751000" />
+      <workItem from="1591685325958" duration="1784000" />
+      <workItem from="1591687326396" duration="1791000" />
+      <workItem from="1591689194109" duration="1754000" />
+      <workItem from="1591691089392" duration="1795000" />
+      <workItem from="1591697229668" duration="78000" />
+      <workItem from="1591697488355" duration="9000" />
+      <workItem from="1591699495844" duration="595000" />
+      <workItem from="1591705480223" duration="9137000" />
+      <workItem from="1591771173265" duration="18721000" />
+      <workItem from="1591792804359" duration="4251000" />
+      <workItem from="1591858111941" duration="24779000" />
+      <workItem from="1592204144070" duration="21210000" />
+      <workItem from="1592290143388" duration="16480000" />
+      <workItem from="1592376252981" duration="23211000" />
+      <workItem from="1592462811167" duration="25421000" />
+      <workItem from="1592548972219" duration="25622000" />
+      <workItem from="1592808315513" duration="26013000" />
+      <workItem from="1592894572378" duration="26756000" />
+      <workItem from="1593067373401" duration="6478000" />
+      <workItem from="1593074950423" duration="30000" />
+      <workItem from="1593376601630" duration="632000" />
+      <workItem from="1593413342350" duration="11000" />
+      <workItem from="1595858371704" duration="1250000" />
+      <workItem from="1595874604192" duration="28000" />
+      <workItem from="1596029579125" duration="518000" />
+      <workItem from="1596091017484" duration="6000" />
+      <workItem from="1596091128135" duration="13000" />
+      <workItem from="1596443130938" duration="671000" />
+      <workItem from="1596528021461" duration="1573000" />
+      <workItem from="1597338051750" duration="1981000" />
+      <workItem from="1597696521552" duration="4012000" />
+      <workItem from="1597732250098" duration="146000" />
+      <workItem from="1597755333699" duration="879000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fff" />
+    <option name="LAST_COMMIT_MESSAGE" value="fff" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="638" y="305" key="#ESLint" timestamp="1589809040218">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="638" y="305" key="#ESLint/0.0.1536.824@0.0.1536.824" timestamp="1589809040218" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590565301350">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1590565301350" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591623033052">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1591623033052" />
+    <state x="516" y="267" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1589533214814">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="516" y="267" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1589533214814" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1597732390794">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1597732390794" />
+    <state x="686" y="209" key="FileChooserDialogImpl/0.0.1920.1030@0.0.1920.1030" timestamp="1593074973506" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1597758241009">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597758241009" />
+    <state width="1892" height="256" key="GridCell.Tab.0.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1593074632902" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1597758241008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597758241008" />
+    <state width="1892" height="256" key="GridCell.Tab.0.center/0.0.1920.1030@0.0.1920.1030" timestamp="1593074632901" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1597758241008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597758241008" />
+    <state width="1892" height="256" key="GridCell.Tab.0.left/0.0.1920.1030@0.0.1920.1030" timestamp="1593074632901" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1597758241008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597758241008" />
+    <state width="1892" height="256" key="GridCell.Tab.0.right/0.0.1920.1030@0.0.1920.1030" timestamp="1593074632902" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1590564452210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590564452210" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1590564452210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590564452210" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1590564452210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590564452210" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1590564452210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590564452210" />
+    <state width="1515" height="261" key="GridCell.Tab.2.bottom" timestamp="1590564452210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590564452210" />
+    <state width="1515" height="261" key="GridCell.Tab.2.center" timestamp="1590564452210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1590564452210" />
+    <state width="1515" height="261" key="GridCell.Tab.2.left" timestamp="1590564452210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1590564452210" />
+    <state width="1515" height="261" key="GridCell.Tab.2.right" timestamp="1590564452210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1590564452210" />
+    <state width="1515" height="261" key="GridCell.Tab.3.bottom" timestamp="1590564452210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590564452210" />
+    <state width="1515" height="261" key="GridCell.Tab.3.center" timestamp="1590564452210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1590564452210" />
+    <state width="1515" height="261" key="GridCell.Tab.3.left" timestamp="1590564452210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1590564452210" />
+    <state width="1515" height="261" key="GridCell.Tab.3.right" timestamp="1590564452210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1590564452210" />
+    <state x="524" y="115" key="RollbackChangesDialog" timestamp="1591296401124">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="115" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1591296401124" />
+    <state x="244" y="73" width="1227" height="922" key="SettingsEditor" timestamp="1591707085132">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="244" y="73" width="1227" height="922" key="SettingsEditor/0.0.1920.1030@0.0.1920.1030" timestamp="1591707085132" />
+    <state x="488" y="20" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592556001714">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="488" y="20" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1030@0.0.1920.1030" timestamp="1592556001714" />
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590135239134">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1590135239134" />
+    <state x="478" y="11" width="685" height="801" key="find.popup" timestamp="1597700512427">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="11" width="685" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1597700512427" />
+    <state x="598" y="14" width="857" height="1002" key="find.popup/0.0.1920.1030@0.0.1920.1030" timestamp="1593376609076" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1591089903860">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1591089903860" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1597700515100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1597700515100" />
+    <state x="539" y="181" width="840" height="848" key="search.everywhere.popup/0.0.1920.1030@0.0.1920.1030" timestamp="1592910786731" />
+  </component>
+</project>

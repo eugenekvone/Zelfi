@@ -1,0 +1,25 @@
+@import "../../../../scss/vars";
+
+.btn_close {
+  position: absolute;
+  top: -15px;
+  right: -15px;
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: $purple-2;
+}
+
+@media (max-width: $break_md) {
+  .btn_close {
+    width: 24px;
+    height: 24px;
+
+    img {
+      width: 10px;
+    }
+  }
+}

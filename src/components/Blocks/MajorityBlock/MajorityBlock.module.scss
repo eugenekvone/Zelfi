@@ -1,0 +1,17 @@
+@import "../../../scss/vars";
+
+.block {
+  width: 48px;
+  height: 48px;
+  background-color: $purple-2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (max-width: $break_md) {
+  .block {
+    width: 38px;
+    height: 38px;
+  }
+}

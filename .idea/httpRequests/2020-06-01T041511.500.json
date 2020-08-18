@@ -1,0 +1,256 @@
+{
+    "message": "Argument 1 passed to Infrastructure\\Persistence\\Doctrine\\Mapping\\Name::fromString() must be of the type string, null given, called in /var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/app/Infrastructure/TransferObjects/RegisterUserData.php on line 31",
+    "exception": "Symfony\\Component\\Debug\\Exception\\FatalThrowableError",
+    "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/app/Infrastructure/Persistence/Doctrine/Mapping/Name.php",
+    "line": 14,
+    "trace": [
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/app/Infrastructure/TransferObjects/RegisterUserData.php",
+            "line": 31,
+            "function": "fromString",
+            "class": "Infrastructure\\Persistence\\Doctrine\\Mapping\\Name",
+            "type": "::"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/app/Interfaces/Http/Controllers/AuthController.php",
+            "line": 63,
+            "function": "fromRequest",
+            "class": "Infrastructure\\TransferObjects\\RegisterUserData",
+            "type": "::"
+        },
+        {
+            "function": "register_one_user",
+            "class": "Interfaces\\Http\\Controllers\\AuthController",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Routing/Controller.php",
+            "line": 54,
+            "function": "call_user_func_array"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php",
+            "line": 45,
+            "function": "callAction",
+            "class": "Illuminate\\Routing\\Controller",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Routing/Route.php",
+            "line": 219,
+            "function": "dispatch",
+            "class": "Illuminate\\Routing\\ControllerDispatcher",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Routing/Route.php",
+            "line": 176,
+            "function": "runController",
+            "class": "Illuminate\\Routing\\Route",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+            "line": 681,
+            "function": "run",
+            "class": "Illuminate\\Routing\\Route",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 130,
+            "function": "Illuminate\\Routing\\{closure}",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/app/App/Middleware/CorsMiddleware.php",
+            "line": 32,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 171,
+            "function": "handle",
+            "class": "App\\Middleware\\CorsMiddleware",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php",
+            "line": 41,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 171,
+            "function": "handle",
+            "class": "Illuminate\\Routing\\Middleware\\SubstituteBindings",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php",
+            "line": 59,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 171,
+            "function": "handle",
+            "class": "Illuminate\\Routing\\Middleware\\ThrottleRequests",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 105,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+            "line": 683,
+            "function": "then",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+            "line": 658,
+            "function": "runRouteWithinStack",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+            "line": 624,
+            "function": "runRoute",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+            "line": 613,
+            "function": "dispatchToRoute",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+            "line": 170,
+            "function": "dispatch",
+            "class": "Illuminate\\Routing\\Router",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 130,
+            "function": "Illuminate\\Foundation\\Http\\{closure}",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/fideloper/proxy/src/TrustProxies.php",
+            "line": 57,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 171,
+            "function": "handle",
+            "class": "Fideloper\\Proxy\\TrustProxies",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php",
+            "line": 21,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 171,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php",
+            "line": 21,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 171,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php",
+            "line": 27,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 171,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php",
+            "line": 63,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 171,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+            "line": 105,
+            "function": "Illuminate\\Pipeline\\{closure}",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+            "line": 145,
+            "function": "then",
+            "class": "Illuminate\\Pipeline\\Pipeline",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+            "line": 110,
+            "function": "sendRequestThroughRouter",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        },
+        {
+            "file": "/var/www/rdbx24/data/www/zelfi-dev.rdbx24.ru/public/index.php",
+            "line": 55,
+            "function": "handle",
+            "class": "Illuminate\\Foundation\\Http\\Kernel",
+            "type": "->"
+        }
+    ]
+}

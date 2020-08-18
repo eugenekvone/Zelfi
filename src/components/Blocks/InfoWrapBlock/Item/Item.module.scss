@@ -1,0 +1,20 @@
+@import "../../../../scss/vars";
+
+.big .text {
+  font-size: 21px;
+  line-height: 26px;
+  margin-bottom: -3px;
+}
+
+.item {
+  height: 44px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+@media (max-width: $break_md) {
+  .big {
+    order: 1;
+  }
+}

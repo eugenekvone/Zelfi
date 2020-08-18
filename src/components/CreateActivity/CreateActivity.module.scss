@@ -1,0 +1,7 @@
+@import "../../scss/vars";
+
+@media (max-width: $break_md) {
+  .item {
+    margin-bottom: 80px;
+  }
+}

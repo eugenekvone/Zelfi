@@ -1,0 +1,20 @@
+@import "../../../scss/vars";
+
+.text {
+  margin-bottom: 20px;
+}
+
+.btn {
+  max-width: 234px;
+  margin-bottom: 30px;
+}
+
+.block_1 {
+  margin-bottom: 20px;
+}
+
+@media (max-width: $break_md) {
+  .btn {
+    max-width: unset;
+  }
+}

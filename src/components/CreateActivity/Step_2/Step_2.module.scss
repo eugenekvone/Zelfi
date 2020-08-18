@@ -1,0 +1,31 @@
+@import "../../../scss/vars";
+
+.block_1 {
+  padding: 19px 30px 40px 30px;
+  border: 1px solid #E5E5E5;
+  border-radius: 4px;
+  margin-bottom: 50px;
+}
+
+.block_2 {
+  display: grid;
+  grid-gap: 30px;
+}
+
+.block_2_wrap {
+  margin-bottom: 50px;
+  display: grid;
+  grid-gap: 30px;
+}
+
+.block_3 {
+  margin-left: 10px;
+}
+
+.block_4 {
+  margin-top: 50px;
+}
+
+@media (max-width: $break_xl) {
+
+}

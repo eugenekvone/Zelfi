@@ -1,0 +1,25 @@
+@import "../../../scss/vars";
+
+.text_1 {
+  margin-bottom: 10px;
+}
+
+.text_2 {
+  margin-bottom: 60px;
+}
+
+.text_1,
+.text_2 {
+  text-align: center;
+}
+
+@media (max-width: $break_md) {
+
+  .text_1 {
+    margin-bottom: 15px;
+  }
+
+  .text_2 {
+    margin-bottom: 30px;
+  }
+}

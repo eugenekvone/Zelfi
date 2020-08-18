@@ -1,0 +1,186 @@
+@import "../../scss/vars.scss";
+
+.text_1 {
+  margin-bottom: 16px;
+}
+
+.text_2 {
+  margin-bottom: 30px;
+}
+
+.text_3 {
+  margin-bottom: 59px;
+}
+
+.text_4 {
+  margin-bottom: 30px;
+}
+
+.inner {
+  max-width: 692px;
+}
+
+.block_1 {
+  margin-bottom: 30px;
+}
+
+.block_2 {
+  margin-bottom: 35px;
+}
+
+.block_back {
+  width: 100%;
+  bottom: 0;
+  height: 313px;
+  background: linear-gradient(0deg, #F4EEFF 0%, rgba(244, 238, 255, 0) 100%);
+}
+
+.inner_1 {
+  position: relative;
+  padding-bottom: 50px;
+}
+
+.inner_2 {
+  padding-top: 44px;
+}
+
+.block_3 {
+  margin-bottom: 75px;
+}
+
+.block_4 {
+  margin-bottom: 79px;
+}
+
+.reviews {
+  padding-bottom: 60px;
+}
+
+.reviews__block_1 {
+  margin: 50px 0;
+  display: flex;
+  align-items: center;
+}
+
+.reviews__item_1 {
+  margin-right: 29px;
+}
+
+.reviews__text_1 {
+  margin-right: 30px;
+}
+
+.reviews__item_2 {
+  margin-bottom: 30px;
+}
+
+.reviews__block_2_item {
+  width: 100%;
+  border: 1px solid $grey-3;
+  border-radius: 4px;
+}
+
+.reviews__block_2_item_inner {
+  display: flex;
+  align-items: center;
+}
+
+.reviews__block_2_item_inner_1 {
+  border-bottom: 1px solid $grey-3;
+  height: 90px;
+  padding: 0 29px;
+}
+
+.reviews__block_2_item_inner_2 {
+  height: 70px;
+  padding: 0 39px;
+}
+
+.reviews__block_2 {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 30px;
+  margin-bottom: 50px;
+}
+
+.reviews__item_3 {
+  margin-right: 42px;
+}
+
+.block {
+  margin-bottom: 50px;
+}
+
+@media (max-width: $break_md) {
+  .block {
+    margin-bottom: 30px;
+  }
+
+  .text_2 {
+    margin-bottom: 19px;
+  }
+
+  .text_3 {
+    margin-bottom: 25px;
+  }
+
+  .block_1 {
+    margin-bottom: 25px;
+  }
+
+  .inner_1 {
+    padding-bottom: 30px;
+  }
+
+  .inner_2 {
+    padding-top: 20px;
+  }
+
+  .block_3 {
+    margin-bottom: 30px;
+  }
+
+  .text_3 {
+    margin-bottom: 20px;
+  }
+
+  .block_4 {
+    margin-bottom: 30px;
+  }
+
+  .reviews__block_1 {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-gap: 20px;
+    margin-top: 0;
+    margin-bottom: 24px;
+  }
+
+  .reviews__block_2 {
+    grid-gap: 20px;
+    margin-bottom: 30px;
+  }
+
+  .reviews__text_1 {
+    grid-column: span 2;
+  }
+
+  .reviews__item_1 {
+    margin-right: 0;
+  }
+
+  .reviews__block_2_item_inner_1 {
+    padding: 0 14px;
+  }
+
+  .reviews__block_2_item_inner_2 {
+    padding: 20px;
+    display: grid;
+    grid-gap: 16px;
+    height: auto;
+  }
+
+  .block_back {
+    background: linear-gradient(0deg, #F4EEFF 0%, rgba(244, 238, 255, 0) 100%);
+  }
+}

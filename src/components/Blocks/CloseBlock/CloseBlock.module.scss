@@ -1,0 +1,64 @@
+@import "../../../scss/vars";
+
+.block {
+  position: absolute;
+  background-color: #FAF7FE;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 2;
+}
+
+.inner {
+  display: flex;
+  align-items: center;
+  position: relative;
+  width: 100%;
+  padding: 20px 117px 20px 25px;
+  height: 100%;
+}
+
+.btn {
+  width: 25px;
+  height: 25px;
+  border-radius: 100%;
+  background-color: $purple-2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-left: 2px;
+  position: absolute;
+  top: 16px;
+  right: 13px;
+}
+
+.icon {
+  position: absolute;
+  left: -6px;
+}
+
+@media (max-width: $break_md) {
+  .inner {
+    padding: 20px;
+    justify-content: center;
+  }
+
+  .icon {
+    display: none;
+  }
+
+  .block {
+    left: 0;
+    height: 50%;
+    bottom: 0;
+    top: unset;
+  }
+
+  .btn {
+    top: -12px;
+
+    img {
+      transform: rotate(90deg);
+    }
+  }
+}

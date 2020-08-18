@@ -1,0 +1,28 @@
+@import "../../../scss/vars";
+
+.info {
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  position: absolute;
+}
+
+.icon_wrap {
+  margin-right: 9.5px;
+  width: 17px;
+  height: 17px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.margin_right {
+  margin-right: 15px;
+}
+
+.opacity {
+  opacity: 0.6;
+}

@@ -1,0 +1,7 @@
+@import "../../../../scss/vars";
+
+@media (max-width: $break_xl) {
+  .block_1 {
+    grid-template-columns: 1fr 1fr;
+  }
+}

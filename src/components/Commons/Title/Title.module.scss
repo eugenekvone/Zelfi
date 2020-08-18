@@ -1,0 +1,53 @@
+@import "../../../scss/vars";
+
+.title {
+  min-height: 58px;
+  margin-bottom: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.title_margin_none {
+  margin-bottom: 0;
+}
+
+.btn_1 {
+  min-width: 354px;
+}
+
+.btn_2 {
+  min-width: 153px;
+}
+
+.btn {
+  margin-left: 20px;
+}
+
+@media (max-width: $break_md) {
+  .title {
+    min-height: auto;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 25px;
+    align-items: unset;
+  }
+
+  .btn {
+    margin-right: auto;
+    padding: 0 35px;
+    margin-top: 25px;
+  }
+
+  .btn_2 {
+    min-width: unset;
+  }
+
+  .btn_1 {
+    min-width: 100%;
+  }
+
+  .btn {
+    margin-left: 0;
+  }
+}

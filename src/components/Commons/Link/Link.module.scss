@@ -1,0 +1,16 @@
+@import "../../../scss/vars";
+
+.icon {
+  margin-left: 5px;
+}
+
+@media (max-width: $break_md) {
+  .icon {
+    width: 9px;
+  }
+
+  .icon_big {
+    width: 16px;
+    margin-left: 11px;
+  }
+}

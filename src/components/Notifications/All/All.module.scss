@@ -1,0 +1,47 @@
+@import "../../../scss/vars";
+
+.block_1 {
+  margin-bottom: 30px;
+}
+
+.block_2 {
+  padding-top: 9px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.block_3 {
+  border-bottom: 1px solid $grey-3;
+  padding-bottom: 14px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 19px;
+  padding-bottom: 20px;
+}
+
+.block_4 {
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+  margin-right: 15px;
+}
+
+.block_5 {
+  border-radius: 4px;
+  height: 59px;
+  background-color: $grey-8;
+  padding: 0 23px;
+  display: flex;
+  align-items: center;
+}
+
+.text {
+  margin-bottom: 4px;
+}
+
+@media (max-width: $break_md) {
+  .block_1 {
+    margin-bottom: 10px;
+  }
+}

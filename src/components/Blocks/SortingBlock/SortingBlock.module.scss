@@ -1,0 +1,21 @@
+@import "../../../scss/vars";
+
+.block {
+  display: flex;
+  align-items: center;
+}
+
+.item {
+  margin-right: 50px;
+}
+
+@media (max-width: $break_md) {
+  .block {
+    display: grid;
+    grid-gap: 30px;
+  }
+
+  .item {
+    margin-right: 0;
+  }
+}

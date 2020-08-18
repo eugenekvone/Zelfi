@@ -1,0 +1,11 @@
+@import "../../../../scss/vars";
+
+.block_1 {
+  margin-bottom: 35px;
+}
+
+@media (max-width: $break_md) {
+  .block_1 {
+    margin-bottom: 20px;
+  }
+}

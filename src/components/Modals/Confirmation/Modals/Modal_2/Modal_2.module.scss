@@ -1,0 +1,12 @@
+@import "../../../../../scss/vars";
+
+.modal {
+  padding-top: 56px;
+  padding-bottom: 57px;
+}
+
+@media (max-width: $break_md) {
+  body .modal {
+    padding: 40px 18px;
+  }
+}

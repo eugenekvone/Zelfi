@@ -1,0 +1,556 @@
+body {
+  @media (max-width: $break_xl) {
+
+    // COMMONS
+
+    .app-wrapper {
+      padding-bottom: 365px;
+    }
+
+    .block_3 {
+      max-width: 450px;
+    }
+
+    // FORM
+
+    .form__series-1_adaptive_xl {
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+  }
+
+  @media (max-width: $break_lg) {
+
+    // TEXT
+
+    .h2-1 {
+      font-size: 20px;
+      line-height: 24px;
+
+      span:after {
+        bottom: 3px;
+        left: 0;
+        right: 0;
+        height: 4px;
+      }
+    }
+
+    .h2-2 {
+      font-size: 18px;
+      line-height: 22px;
+    }
+
+    .text-7 {
+      font-size: 13px;
+    }
+
+    .text-1,
+    .text-7,
+    .text-8,
+    div.select__control,
+    .checkbox-wrap span,
+    .input-wrap span,
+    .textarea-wrap span,
+    .input-wrap .rw-datetime-picker.rw-widget .rw-input {
+      font-size: 12px;
+      line-height: 15px;
+    }
+
+    .text-5_adaptive {
+      font-size: 14px;
+      line-height: 17px;
+    }
+
+    // DatePicker
+
+    div.DayPicker,
+    div.DayPicker_transitionContainer {
+      width: 314px!important;
+    }
+
+    // COMMONS
+
+    .app-wrapper {
+      padding-bottom: 587px;
+    }
+
+    .block_3 {
+      max-width: 100%;
+    }
+
+    // FORM
+
+    .form__series-1_adaptive_lg {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  @media (max-width: $break_md) {
+
+    // TEXT
+
+    .title_1 {
+      font-size: 16px;
+      line-height: 20px;
+    }
+
+    .text_1,
+    .text_2 {
+      margin-bottom: 20px;
+    }
+
+    .text-1_adaptive {
+      font-size: 12px;
+      line-height: 15px;
+    }
+
+    .text-2_adaptive {
+      font-size: 20px;
+      line-height: 24px;
+    }
+
+    .text-3_adaptive {
+      font-size: 12px;
+      line-height: 18px;
+    }
+
+    .text-4_adaptive {
+      font-size: 16px;
+      line-height: 20px;
+    }
+
+    .text-5_adaptive {
+      font-size: 14px;
+      line-height: 17px;
+    }
+
+    .text-6_adaptive {
+      font-size: 16px;
+      line-height: 20px;
+      font-family: 'Montserrat-ExtraBold';
+    }
+
+    .text-7_adaptive {
+      font-size: 16px;
+      line-height: 20px;
+      font-family: 'Montserrat-SemiBold';
+    }
+
+    .text-8_adaptive {
+      font-size: 10px;
+      line-height: 12px;
+    }
+
+    .text-9_adaptive {
+      font-size: 18px;
+      line-height: 22px;
+    }
+
+    .text-10_adaptive {
+      font-size: 9px;
+      line-height: 11px;
+    }
+
+    .text-11_adaptive {
+      font-size: 12px;
+      line-height: 14px;
+      font-family: 'Montserrat-SemiBold';
+    }
+
+    // COMMONS
+
+    .container {
+      padding-right: 15px;
+      padding-left: 15px;
+    }
+
+    .inner_2 {
+      grid-gap: 20px;
+    }
+
+    .inner_1_adaptive {
+      grid-gap: 30px;
+    }
+
+    .text_center_adaptive {
+      text-align: center;
+    }
+
+    .overlay {
+      padding: 15px;
+      overflow-y: auto;
+    }
+
+    .none_adaptive {
+      display: none;
+    }
+
+    .active_adaptive {
+      display: block;
+    }
+
+    .active_adaptive_flex {
+      display: flex;
+    }
+
+    .case {
+      padding: 20px 10px;
+    }
+
+    .ReactModal__Content {
+      width: 100%;
+    }
+
+    .order_-1_adaptive {
+      order: -1;
+    }
+
+    .order_-2_adaptive {
+      order: -2;
+    }
+
+    .order_-3_adaptive {
+      order: -3;
+    }
+
+    .order_1_adaptive {
+      order: 1;
+    }
+
+    .app-wrapper {
+      padding-bottom: 417px;
+    }
+
+    .content {
+      padding-top: 20px;
+      padding-bottom: 30px;
+    }
+
+    .block_4 {
+      margin-bottom: 30px;
+    }
+
+    .block_5 {
+      padding: 0;
+    }
+
+    .textarea-wrap {
+      height: 76px;
+    }
+
+    .flex-column_adaptive {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .flex-left_adaptive {
+      margin-right: auto;
+      margin-left: 0;
+    }
+
+    .grid_adaptive {
+      display: grid;
+    }
+
+    .block_2 .owl-carousel .owl-nav {
+      right: 0;
+      left: unset;
+      top: -74px;
+
+      .owl-prev {
+        margin-right: 23px;
+      }
+    }
+
+    // BTNS
+
+    .btn.btn_height-1,
+    .btn.btn_height-2,
+    div.btn_height-1,
+    div.btn_height-2 {
+      height: 40px;
+    }
+
+    .btn__icon_right {
+      width: 15px;
+    }
+
+    .btn__icon_left {
+      max-width: 15px;
+    }
+
+    // INPUT
+
+    .input-wrap {
+      min-height: 40px;
+      padding-right: 13px;
+    }
+
+    .input-wrap,
+    .input-wrap .rw-datetime-picker.rw-widget .rw-input {
+      padding-left: 13px;
+    }
+
+    .input_icon-wrap, .input_icon-wrap_ruble {
+      min-height: 40px;
+      width: 40px;
+      margin-right: -13px;
+    }
+
+    .input-wrap .rw-datetime-picker.rw-widget .rw-widget-picker {
+      grid-template-columns: 1fr 40px;
+    }
+
+    .textarea-wrap {
+      padding: 13px;
+    }
+
+    .input_icon {
+      width: 15px;
+      margin-left: 13px;
+    }
+
+    .input-item {
+      grid-column: unset;
+    }
+
+    .input-wrap_date {
+      padding: 0;
+    }
+
+    .input-title {
+      display: flex;
+
+      mark {
+        margin-left: auto;
+        font-family: Montserrat-Bold;
+      }
+    }
+
+    // FORMS
+
+    .form__series {
+      grid-template-columns: 1fr;
+    }
+
+    .form__series-1_adaptive {
+      grid-gap: 30px;
+    }
+
+    .form__series-2_adaptive {
+      grid-gap: 20px;
+    }
+
+    .form__series-3_adaptive {
+      grid-gap: 10px;
+    }
+
+    .form__series-4_adaptive {
+      grid-gap: 35px;
+    }
+
+    .form__series-wrap-1_adaptive {
+      margin-bottom: 25px;
+    }
+
+    .form__series-wrap-2_adaptive {
+      margin-bottom: 30px;
+    }
+
+    .form__series-wrap-3_adaptive {
+      margin-bottom: 20px;
+    }
+
+    .form__series-wrap-4_adaptive {
+      margin-bottom: 0;
+    }
+
+    .form__series-wrap-5_adaptive {
+      margin-bottom: 15px;
+    }
+
+    .form__series-wrap-6_adaptive {
+      margin-bottom: 40px;
+    }
+
+    .form__series-wrap-7_adaptive {
+      margin-bottom: 35px;
+    }
+
+    .form__series-title {
+      margin-bottom: 10px;
+    }
+
+    .form__series-title-1_adaptive {
+      margin-bottom: 20px;
+    }
+
+    .form__series-title-2_adaptive {
+      margin-bottom: 15px;
+    }
+
+    .form__series-title-3_adaptive {
+      margin-bottom: 30px;
+    }
+
+    // SELECTOR
+
+    div.select__control {
+      height: 40px;
+    }
+
+    .input-wrap_select {
+      padding: 0;
+    }
+
+    div.select__value-container {
+      padding-left: 13px;
+      font-size: 12px;
+      line-height: 15px;
+    }
+
+    .select_icon {
+      padding: 0 9px;
+    }
+
+    .select.invalid .select__value-container:after {
+      font-size: 12px;
+      line-height: 15px;
+      top: 16px;
+    }
+
+    // FLEX
+
+    .flex-ver-center_adaptive {
+      display: flex;
+      align-items: center;
+    }
+
+    // DATE
+
+    div.DateRangePickerInput {
+      padding-left: 13px;
+    }
+
+    button.DateRangePickerInput_calendarIcon {
+      margin-right: 0;
+    }
+
+    input.DateInput_input {
+      font-size: 12px;
+      width: 66px;
+    }
+
+    // CHECKBOX
+
+    .checkbox {
+      width: 22px;
+      height: 22px;
+      min-width: 22px;
+    }
+
+    .checkbox-none[value=true] + .checkbox-label .checkbox {
+      background-size: 12px 12px;
+    }
+
+    .checkbox-text {
+      margin-top: 2px;
+    }
+
+    .checkbox-wrap span {
+      margin-top: 15px;
+    }
+
+    // RADIO
+
+    .radio-wrap_1 {
+      display: grid;
+      grid-template-columns: 1fr;
+      grid-column-gap: 11px;
+      grid-row-gap: 20px;
+    }
+
+    .radio_1-item {
+      margin-right: 0;
+    }
+
+    .radio_2-item {
+      margin-bottom: 0;
+    }
+
+    .radio_2-label {
+      height: 40px;
+      padding: 0 30px;
+    }
+
+    .radio_2-item:not(:last-of-type) {
+      margin-right: 0;
+    }
+
+    .radio_3-label {
+      width: 100%;
+      margin-right: 0;
+      height: 40px;
+      padding: 0 20px;
+      margin-bottom: 6px;
+    }
+
+    .radio_3-text {
+      margin-left: auto;
+      margin-right: 17px;
+    }
+
+    .radio_4-label {
+      height: 40px;
+    }
+
+    // MODAL
+
+    .modal-1 {
+      padding: 20px 15px 30px 15px;
+    }
+
+    .modal-2 {
+      padding: 10px 10px 20px 10px;
+    }
+
+    // STEPPER
+
+    .stepper-btn {
+      height: 40px;
+    }
+
+    // CAROUSEL
+
+    .carousel_nav-1 .owl-carousel .owl-nav button {
+      width: 36px;
+      height: 36px;
+      opacity: 1;
+      background-size: 16px 16px;
+    }
+
+    .carousel_nav-1 .owl-carousel .owl-nav button:hover {
+      box-shadow: none;
+    }
+
+    .carousel_nav-1 .owl-carousel .owl-nav {
+      left: -15px;
+      right: -15px;
+    }
+  }
+
+  @media (max-width: $break_sm) {
+    .stepper {
+      width: 100%;
+    }
+
+    .stepper-btn {
+      width: 68px;
+    }
+
+    .stepper-wrap {
+      width: 100%;
+    }
+  }
+}
+
+

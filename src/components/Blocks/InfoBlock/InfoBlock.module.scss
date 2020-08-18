@@ -1,0 +1,56 @@
+@import "../../../scss/vars";
+
+.block_1 {
+  margin-bottom: 30px;
+}
+
+.block_2 {
+  margin-bottom: 50px;
+}
+
+.block_3 {
+  padding: 0 25px;
+}
+
+.block_5 {
+  margin-top: 16px;
+}
+
+.text_1 {
+  margin-bottom: 16px;
+}
+
+.icon {
+  margin-left: 11px;
+  transition: transform 0.3s;
+}
+
+.text_2 {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s;
+}
+
+.block_4_active {
+  .icon {
+    transform: rotate(180deg);
+  }
+
+  .text_2 {
+    max-height: 5000px;
+  }
+}
+
+@media (max-width: $break_md) {
+  .block_3 {
+    padding: 0;
+  }
+
+  .block_2 {
+    margin-bottom: 35px;
+  }
+
+  .text_1 {
+    margin-bottom: 0;
+  }
+}

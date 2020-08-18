@@ -1,0 +1,41 @@
+@import "../../../scss/vars";
+
+.block {
+  box-shadow: 0px 8px 25px rgba(155, 99, 248, 0.15);
+  border-radius: 4px;
+  background-color: white;
+  padding: 5px 24px;
+  display: flex;
+  align-items: center;
+  height: 58px;
+  margin-right: auto;
+}
+
+.wrap {
+  display: flex;
+}
+
+.icon_wrap {
+  min-width: 20px;
+  height: 20px;
+  margin-right: 6px;
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon_wrap_pink {
+  background-color: $pink-2;
+}
+
+.icon_wrap_green {
+  background-color: $green-1;
+}
+
+@media (max-width: $break_md) {
+  .block {
+    height: 40px;
+    padding: 10px;
+  }
+}

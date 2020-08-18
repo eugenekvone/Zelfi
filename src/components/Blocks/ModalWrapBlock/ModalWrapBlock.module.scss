@@ -1,0 +1,163 @@
+@import "../../../scss/vars";
+
+.inner_1,
+.item_3 {
+  height: 100%;
+}
+
+.inner_1 {
+  background-color: rgba(155, 99, 248, 0.05);
+}
+
+.item_3 {
+  background-color: $purple-1;
+}
+
+.item_1 {
+  position: absolute;
+  top: 22px;
+  left: -6px;
+  z-index: 1;
+}
+
+.btn {
+  position: absolute;
+  top: 17px;
+  right: 17px;
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+}
+
+.btn_active {
+  padding-left: 3px;
+}
+
+.btn_disabled {
+  border: 1px solid $purple-1;
+}
+
+.block {
+  width: 100%;
+  height: 100%;
+}
+
+.inner_2 {
+  display: none;
+}
+
+.inner_2 {
+  height: 100%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100%;
+}
+
+.block.active {
+
+  .inner_2 {
+    display: block;
+  }
+}
+
+.item_5 {
+  display: none;
+}
+
+@media (max-width: $break_md) {
+
+  .item_4 {
+    transform: rotate(-90deg);
+  }
+
+  .btn {
+    top: -17px;
+  }
+
+  .item_2 {
+    margin-top: -6px;
+    margin-right: auto;
+    margin-left: auto;
+    position: absolute;
+    left: 0;
+    right: 0;
+  }
+
+  .block.active.typeSecond {
+    .inner_2 {
+      display: flex;
+    }
+  }
+
+  .typeSecond {
+
+    position: unset;
+
+    .item_1 {
+      left: unset;
+      top: -68px;
+      left: 0;
+      right: 0;
+      margin: 0 auto;
+      transform: rotate(90deg);
+    }
+
+    .item_2 {
+      margin-bottom: -6px;
+      position: relative;
+      margin-right: auto;
+      z-index: 1;
+      margin-left: auto;
+    }
+
+    .item_4 {
+      display: none;
+    }
+
+    .item_5 {
+      display: block;
+    }
+
+    .inner_1 {
+      padding: 12px 10px;
+    }
+
+    .btn {
+      top: 148px;
+      right: 23px;
+    }
+
+    .inner_2 {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 100%;
+      background: rgba(0, 0, 0, 0.55);
+      padding: 10px;
+      z-index: 2;
+    }
+
+    .item_3 {
+      margin-top: auto;
+      height: auto;
+      width: 100%;
+
+      .item_2 {
+        display: none;
+      }
+    }
+
+    .btn_active {
+      top: unset;
+      bottom: 210px;
+      padding-left: 0;
+    }
+  }
+}
+
+

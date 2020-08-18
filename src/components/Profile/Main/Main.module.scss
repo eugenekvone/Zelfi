@@ -1,0 +1,77 @@
+@import "../../../scss/vars";
+
+.text {
+  margin-bottom: 31px;
+}
+
+.block_1 {
+  margin-bottom: 54px;
+}
+
+.block_2 {
+  margin-left: auto;
+  border: 1px solid #E5E5E5;
+  border-radius: 4px;
+  height: 83px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.block_3 {
+  min-width: 120px;
+  padding: 0 30px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.block_3:first-of-type {
+  border-right: 1px solid #E5E5E5;
+}
+
+.block_4 {
+  position: absolute;
+  top: -11px;
+  right: -21px;
+  width: 19px;
+  height: 19px;
+  border-radius: 100%;
+  border: 1px solid #9B63F8;
+  cursor: pointer;
+  margin-bottom: auto;
+  background-color: white;
+}
+
+.block_4:hover .block_5 {
+  display: block;
+}
+
+.block_5 {
+  box-shadow: 0px 5px 20px rgba(155, 99, 248, 0.15);
+  border-radius: 4px;
+  background-color: white;
+  border: 1px solid #E5E5E5;
+  padding: 7px 10px 9px 10px;
+  position: absolute;
+  left: 29px;
+  min-height: 36px;
+  max-width: 300px;
+  white-space: nowrap;
+  display: none;
+  z-index: 1;
+}
+
+@media (max-width: $break_md) {
+
+  .block_1 {
+    margin-bottom: 20px;
+  }
+
+  .block_2 {
+    margin-left: 0;
+    order: -1;
+    margin-bottom: 30px;
+  }
+}

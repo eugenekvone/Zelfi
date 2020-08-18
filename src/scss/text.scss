@@ -1,0 +1,371 @@
+.h2-1 {
+  font-size: 40px;
+  line-height: 49px;
+  color: $purple-2;
+  font-family: Montserrat-ExtraBold;
+
+  span {
+    position: relative;
+  }
+
+  span:after {
+    content: '';
+    bottom: 6px;
+    z-index: -1;
+    position: absolute;
+    left: 3px;
+    right: 2px;
+    height: 8px;
+    opacity: 0.7;
+    background-color: $purple-1;
+  }
+}
+
+.h2-2 {
+  font-size: 32px;
+  line-height: 39px;
+  color: $purple-2;
+  font-family: Montserrat-ExtraBold;
+}
+
+.text-1 {
+  font-size: 16px;
+  line-height: 20px;
+  font-family: Montserrat-Regular;
+
+  span {
+    font-family: 'Montserrat-SemiBold';
+  }
+}
+
+.text-2 {
+  font-size: 12px;
+  line-height: 15px;
+  font-family: 'Montserrat-SemiBold';
+}
+
+.text-3 {
+  font-size: 18px;
+  line-height: 22px;
+  font-family: 'Montserrat-SemiBold';
+
+  a {
+    color: $purple-1;
+  }
+}
+
+.text-4 {
+  font-size: 12px;
+  line-height: 15px;
+  font-family: Montserrat-Regular;
+  opacity: 0.7;
+}
+
+.text-5 {
+  font-size: 10px;
+  line-height: 12px;
+  font-family: Montserrat-Medium;
+}
+
+.text-6 {
+  font-size: 12px;
+  line-height: 15px;
+  font-family: Montserrat-Medium;
+}
+
+.text-7 {
+  font-size: 16px;
+  line-height: 20px;
+  font-family: 'Montserrat-SemiBold';
+
+  span {
+    font-family: Montserrat-Regular;
+  }
+
+  mark {
+    background: unset;
+    margin-left: 10px;
+  }
+}
+
+.text-8 {
+  font-size: 18px;
+  line-height: 22px;
+  font-family: Montserrat-Regular;
+
+  span {
+    font-family: 'Montserrat-SemiBold';
+  }
+}
+
+.text-9 {
+  font-size: 16px;
+  line-height: 20px;
+  font-family: Montserrat-ExtraBold;
+
+  span {
+    font-family: 'Montserrat-SemiBold';
+  }
+}
+
+.text-10 {
+  font-size: 12px;
+  line-height: 15px;
+  color: $purple-2;
+  border-bottom: 1px dashed $purple-6;
+  padding-bottom: 1px;
+  margin-top: 1px;
+  margin-right: auto;
+  padding: 0;
+}
+
+.text-11 {
+  font-size: 14px;
+  line-height: 17px;
+  font-family: Montserrat-Regular;
+
+  span {
+    font-size: 11px;
+  }
+}
+
+.text-12 {
+  font-size: 24px;
+  line-height: 29px;
+  font-family: Montserrat-Regular;
+
+  span {
+    font-family: 'Montserrat-SemiBold';
+  }
+}
+
+.text-13 {
+  font-size: 16px;
+  line-height: 20px;
+  font-family: 'Montserrat-Bold';
+}
+
+.text-14 {
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Montserrat-Regular;
+}
+
+.text-15 {
+  font-size: 16px;
+  line-height: 35px;
+  font-family: Montserrat-Regular;
+}
+
+.text-16 {
+  font-size: 14px;
+  line-height: 17px;
+  font-family: 'Montserrat-SemiBold';
+
+  span {
+    font-family: Montserrat-Regular;
+  }
+}
+
+.text-17 {
+  font-size: 18px;
+  line-height: 22px;
+  font-family: 'Montserrat-ExtraBold';
+
+  span {
+    font-size: 14px;
+  }
+}
+
+.text-18 {
+  font-size: 10px;
+  line-height: 12px;
+  font-family: 'Montserrat-SemiBold';
+}
+
+.text-19 {
+  font-size: 24px;
+  line-height: 29px;
+  font-family: 'Montserrat-ExtraBold';
+
+  span {
+    font-size: 18px;
+    line-height: 22px;
+  }
+}
+
+.text-20 {
+  font-size: 15px;
+  line-height: 18px;
+  font-family: 'Montserrat-SemiBold';
+
+  span {
+    font-family: Montserrat-Regular;
+  }
+}
+
+.text-21 {
+  font-size: 32px;
+  line-height: 39px;
+  font-family: Montserrat-ExtraBold;
+}
+
+.text-22 {
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Roboto-Regular;
+  color: #545454;
+}
+
+.text-23 {
+  font-size: 14px;
+  line-height: 17px;
+  font-family: 'Montserrat-Bold';
+
+  span {
+    font-family: Montserrat-Regular;
+  }
+}
+
+.text-24 {
+  font-size: 21px;
+  line-height: 26px;
+  font-family: Montserrat-Regular;
+}
+
+.text-25 {
+  font-size: 10px;
+  line-height: 14px;
+  font-family: Montserrat-Regular;
+}
+
+.text-26 {
+  font-size: 82px;
+  line-height: 100px;
+  font-family: Montserrat-ExtraBold;
+  color: $purple-2;
+}
+
+.text-27 {
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto-Regular;
+}
+
+.text-28 {
+  font-size: 18px;
+  line-height: 22px;
+  font-family: 'Montserrat-Bold';
+}
+
+.text-29 {
+  font-size: 20px;
+  line-height: 24px;
+  font-family: 'Montserrat-ExtraBold';
+}
+
+.text-30 {
+  font-size: 18px;
+  line-height: 27px;
+  font-family: Montserrat-Regular;
+
+  span {
+    font-family: 'Montserrat-SemiBold';
+  }
+}
+
+.text-31 {
+  font-size: 20px;
+  line-height: 24px;
+  font-family: 'Montserrat-Bold';
+}
+
+.text-32 {
+  font-size: 20px;
+  line-height: 24px;
+  font-family: 'Montserrat-Regular';
+}
+
+.text-33 {
+  font-size: 14px;
+  line-height: 17px;
+  font-family: 'Montserrat-ExtraBold';
+}
+
+.text-34 {
+  font-size: 18px;
+  line-height: 27px;
+  font-family: Montserrat-Regular;
+
+  span  {
+      font-size: 24px;
+      font-family: Montserrat-Regular;
+
+      mark {
+        font-family: 'Montserrat-SemiBold';
+      }
+    }
+}
+
+.text-35 {
+  font-size: 14px;
+  line-height: 24px;
+  font-family: 'Montserrat-Medium';
+}
+
+.text-36 {
+  font-size: 12px;
+  line-height: 15px;
+  font-family: Montserrat-Regular;
+}
+
+
+.text_white {
+  color: white;
+}
+
+.text_black {
+  color: black;
+}
+
+.text_pink {
+  color: $pink-3;
+}
+
+.text_purple {
+  color: $purple-1;
+}
+
+.text_grey {
+  color: $grey-4;
+}
+
+.text_center {
+  text-align: center;
+}
+
+.text_right {
+  text-align: right;
+}
+
+.text_underline {
+  text-decoration: underline;
+}
+
+.selector_text {
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-family: Montserrat-Regular;
+  color: $purple-2;
+}
+
+.selector_text::placeholder {
+  text-transform: none;
+}
+
+.link-1 {
+  color: $purple-1;
+  text-decoration: underline;
+}
